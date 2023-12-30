@@ -1,0 +1,4 @@
+[core]
+    remote = my-google-drive
+['remote "my-google-drive"']
+    url = gdrive://Project
