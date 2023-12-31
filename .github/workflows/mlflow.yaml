@@ -34,7 +34,7 @@ jobs:
 
       - name: Pull data from DVC remote
         run: |
-          dvc pull -r myremote --force
+          dvc pull
 
       - name: Run DVC repro
         run: |
