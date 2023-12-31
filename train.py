@@ -40,10 +40,15 @@ X_transformed = column_transformer.fit_transform(X)
 
 # Split the transformed data into training and validation sets
 X_train, X_test, y_train, y_test = train_test_split(X_transformed, y, test_size=0.2, random_state=42)
+X_train_df = pd.DataFrame(X_train, columns=[f'feature_{i}' for i in range(X_train.shape[1])])
+X_train_df.to_csv('train_data.csv', index=False)
+
+
 
 # Display the shapes of the training and validation sets
-print(f"X_train shape: {X_train.shape}, X_val shape: {X_val.shape}")
-print(f"y_train shape: {y_train.shape}, y_val shape: {y_val.shape}")
+print(f"X_train shape: {X_train.shape}, X_val shape: {X_test.shape}")
+print(f"y_train shape: {y_train.shape}, y_val shape: {y_test.shape}")
+
 
 
 model = RandomForestRegressor(random_state=42, n_estimators=100, max_depth=10)
@@ -75,7 +80,7 @@ with mlflow.start_run() as run:
     best_model = grid_search.best_estimator_
 
     mlflow.log_params(best_params)
-
+    best_mse = mean_squared_error(y_test, best_model.predict(X_test))
     mlflow.log_metric("best_mse", best_mse)
 
     # Log the best model

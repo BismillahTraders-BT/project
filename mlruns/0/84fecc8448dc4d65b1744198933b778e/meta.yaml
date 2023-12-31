@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/84fecc8448dc4d65b1744198933b778e/artifacts
+end_time: 1704059488640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84fecc8448dc4d65b1744198933b778e
+run_name: luminous-whale-187
+run_uuid: 84fecc8448dc4d65b1744198933b778e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704059488333
+status: 3
+tags: []
+user_id: dosbros

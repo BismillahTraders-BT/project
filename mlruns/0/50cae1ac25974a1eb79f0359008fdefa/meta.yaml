@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/50cae1ac25974a1eb79f0359008fdefa/artifacts
+end_time: 1704058922346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50cae1ac25974a1eb79f0359008fdefa
+run_name: nervous-roo-536
+run_uuid: 50cae1ac25974a1eb79f0359008fdefa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704058922051
+status: 3
+tags: []
+user_id: dosbros

@@ -68,3 +68,4 @@ dummy_data = generate_dummy_data(start_date, end_date, num_machines=5, num_senso
 dummy_data.to_csv('dummy_sensor_data.csv', index=False)
 
 generate_and_append_data(data_file_path)
+subprocess.call(['rm', "dummy_sensor_data.csv"])
