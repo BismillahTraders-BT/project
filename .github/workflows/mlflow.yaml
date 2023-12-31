@@ -1,61 +1,39 @@
-name: Generate and preprocess the data
+name: DVC CI
 
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 * * * *'  # Runs after every hour
+on: [push, pull_request]
+
 jobs:
-  run:
-    permissions: write-all
+  dvc:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Check out Git repository
+      uses: actions/checkout@v2
 
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.11.5
+    - name: Install DVC
+      run: pip install dvc
 
-      - name: Setup DVC
-        run: |
-          pip install dvc
-          dvc remote modify myremote gdrive_use_service_account true
-          dvc remote modify myremote --local \
-            gdrive_service_account_json_file_path GD_Credentials.json
+    - name: Configure DVC
+      run: |
+        # If you need to configure DVC remote, do it here
+        # e.g., dvc remote add -d myremote s3://mybucket/mydvcstore
 
-      - name: Install Dependencies
-        run: |
-          pip install -r requirements.txt
+    - name: DVC Pull
+      run: dvc pull
+      # Include environment variables or secrets as needed
 
-      - name: Pull data from DVC remote
-        run: |
-          dvc pull -r myremote --force
-
-      - name: Run DVC repro
-        run: |
-          dvc repro
-    
-      - name: DVC Add
-        run: |
-          dvc add data/dummy_sensor_data.csv model.pkl
-        
-      - name: Push data to DVC remote
-        run: |
-          dvc push -r myremote
-
-      - name: Git credentials
-        run: |
-          git config --global user.email "tradersbismillah282@gmail.com"
-          git config --global user.name "BismillahTraders-BT"
-  
-      - name: Make changes to Git
-        run: |
-          git pull origin main
-          git add .
-          git commit -m "Update data"
-          git push origin main
+    - name: Add file to DVC and Push
+      run: |
+        git rm -r --cached model.pkl
+        git commit -m "stop tracking model.pkl"
+        dvc add model.pkl
+        git add model.pkl.dvc .gitignore
+        git commit -m "Add model.pkl to DVC"
+        git push
+        dvc push
+      # Include environment variables or secrets as needed
