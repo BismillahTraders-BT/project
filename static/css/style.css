@@ -1,0 +1,78 @@
+body {
+    background-color: #f6f6f2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: #388087;
+    margin-bottom: 60px;
+    font-size: 50px;
+}
+
+.container {
+    text-align: center;
+}
+
+.upload-box {
+    margin-top: 20px;
+    border: 2px dashed #badfe7;
+    border-radius: 8px;
+    padding: 200px;
+    cursor: pointer;
+    color: #6fb3b8 ;
+}
+
+.drop-area-text {
+    font-size: 16px;
+}
+
+#fileInput {
+    display: none;
+}
+
+#uploadLabel {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #6fb3b8;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#calculateButton {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #6fb3b8;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none; 
+    font-size: 16px;
+}
+
+.custom-file-upload {
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    background-color: #6fb3b8;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.custom-file-upload input[type="file"] {
+    display: none;
+}
+
+.result-area{
+    margin-top: 20px;
+    border: 2px dashed #badfe7;
+    border-radius: 8px;
+    padding: 20px;
+    cursor: pointer;
+    color: #6fb3b8 ;
+}

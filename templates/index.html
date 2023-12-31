@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/css/style.css">
+    <title>Intrusion Detection</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Intrusion Detection System</h1>
+        <form action="/predict" method="post" enctype="multipart/form-data">
+            <div class="upload-box" id="drop-area">
+                <div class="drop-area-text">
+                    <label for="csvFile" class="custom-file-upload">
+                        Upload CSV File:
+                        <input type="file" name="file" accept=".csv,.txt" id="csvFile" class="form-control-file" onchange="displayFileName(this)">
+                        <span id="file-chosen">No file chosen</span>
+                    </label>
+                    <script>
+                        function displayFileName(input) {
+                            var fileName = input.files[0].name;
+                            document.getElementById('file-chosen').textContent = fileName;
+                        }
+                    </script>                   
+                </div>
+            </div>
+            <button type="submit" id="calculateButton">Calculate</button>
+        </form>
+
+        {% if predictions %}
+            <div class="result-area">
+                <div class="alert alert-success">
+                    <h2>Result:</strong> {{ predictions }}
+                </div>
+            </div>
+        {% endif %}
+
+    </div>
+</body>
+</html>
