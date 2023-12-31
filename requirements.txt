@@ -3,5 +3,4 @@ scikit-learn
 mlflow
 dvc
 dvc_gdrive
-joblib
-pickle
+
