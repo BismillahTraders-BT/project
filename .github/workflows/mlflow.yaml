@@ -26,7 +26,7 @@ jobs:
           pip install dvc
           dvc remote modify myremote gdrive_use_service_account true
           dvc remote modify myremote --local \
-            gdrive_service_account_json_file_path GD_credentials.json
+            gdrive_service_account_json_file_path GD_Credentials.json
 
       - name: Install Dependencies
         run: |
