@@ -1,0 +1,5 @@
+stages:
+  get_data:
+    cmd: python data/data.ipynb
+  process_and_train_model:
+    cmd: python train.py
