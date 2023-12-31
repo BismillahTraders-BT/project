@@ -5,6 +5,7 @@ import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+import pickle
 
 client = MlflowClient(tracking_uri="http://localhost:8080")
 
@@ -58,3 +59,5 @@ with mlflow.start_run(run_name=run_name) as run:
 
     # Log an instance of the trained model for later use
     mlflow.sklearn.log_model(sk_model=rf, input_example=X_test, artifact_path=artifact_path)
+
+pickle.dump(rf, open('model.pkl', 'wb'))
