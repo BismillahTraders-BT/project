@@ -4,3 +4,4 @@
     url = gdrive://Project
 ['remote "myremote"']
     url = gdrive://13rfA3GdJtGn-ynk03mza72euegGb-PVA
+    gdrive_use_service_account = true
