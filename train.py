@@ -1,63 +1,50 @@
-import pandas as pd
-from mlflow import MlflowClient
-import mlflow.sklearn, mlflow
-import numpy as np
+import mlflow
+import mlflow.sklearn
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import mean_squared_error
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error
 import pickle
 
-client = MlflowClient(tracking_uri="http://localhost:8080")
+model = RandomForestRegressor(random_state=42, n_estimators=100, max_depth=10)
 
-random_forest_experiment = mlflow.set_experiment("Random Forest")
-run_name = "Random Forest Run 1"
-artifact_path = "rf_model"
+# Train the model
+model.fit(X_train, y_train)
 
-data = pd.read_csv('data/processed_data.csv')
-
-X = data.drop(['Timestamp', 'Reading'], axis=1)
-y = data['Reading']
-
-print(X.head())
-print(y.head())
-
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-rf = RandomForestRegressor(n_estimators=100, random_state=30, max_depth=5)
-
-rf.fit(X_train, y_train)
-
-y_pred = rf.predict(X_test)
-
-mse = mean_squared_error(y_test, y_pred)
-mae = mean_absolute_error(y_test, y_pred)
-r2 = r2_score(y_test, y_pred)
-rmse = np.sqrt(mse)
-print(f"Mean Squared Error: {mse}")
+# Validate the model
+predictions = model.predict(X_test)
+mse = mean_squared_error(y_test, predictions)
+print(f'Mean Squared Error: {mse}')
 
 
-params = {
-    "n_estimators": 100, 
-    "random_state": 42, 
-    "max_depth": 5
+# Define a smaller parameter grid
+param_grid = {
+    'n_estimators': [50, 100],
+    'max_depth': [5, 10]
 }
 
+# Initialize Grid Search with fewer cross-validation folds and limited parallel jobs
+grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=2, n_jobs=2, verbose=2)
 
-metrics = {
-    "mse": mse,
-    "mae": mae,
-    "r2": r2,
-    "rmse": rmse
-}
+# Perform grid search
+grid_search.fit(X_train, y_train)
 
-# Initiate a run, setting the `run_name` parameter
-with mlflow.start_run(run_name=run_name) as run:
-    # Log the parameters used for the model fit
-    mlflow.log_params(params)
+# Start an MLflow run# After grid search is completed
+with mlflow.start_run() as run:
+    best_params = grid_search.best_params_
+    best_model = grid_search.best_estimator_
 
-    # Log the error metrics that were calculated during validation
-    mlflow.log_metrics(metrics)
+    mlflow.log_params(best_params)
 
-    # Log an instance of the trained model for later use
-    mlflow.sklearn.log_model(sk_model=rf, input_example=X_test, artifact_path=artifact_path)
+    mlflow.log_metric("best_mse", best_mse)
 
-pickle.dump(rf, open('model.pkl', 'wb'))
+    # Log the best model
+    #mlflow.sklearn.log_model(best_model, "best_model")
+    # Log the best model
+    #mlflow.sklearn.log_model(best_model, "model/best_model")
+    # Save the best model using joblib
+    
+    pickle.dump(best_model, open('model.pkl', 'wb'))
+
+    print("MLflow Run ID:", run.info.run_id)
