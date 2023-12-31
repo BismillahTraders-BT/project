@@ -2,3 +2,5 @@
     remote = my-google-drive
 ['remote "my-google-drive"']
     url = gdrive://Project
+['remote "myremote"']
+    url = gdrive://13rfA3GdJtGn-ynk03mza72euegGb-PVA
