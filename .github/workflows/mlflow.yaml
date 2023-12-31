@@ -38,6 +38,11 @@ jobs:
       - name: Run DVC repro
         run: |
           dvc repro
+      
+      - name: Git credentials
+        run: |
+          git config --global user.email "tradersbismillah282@gmail.com"
+          git config --global user.name "BismillahTraders-BT"
 
       - name: Remove model.pkl from Git tracking
         run: |
@@ -52,11 +57,7 @@ jobs:
         run: |
           dvc push -r myremote
 
-      - name: Git credentials
-        run: |
-          git config --global user.email "tradersbismillah282@gmail.com"
-          git config --global user.name "BismillahTraders-BT"
-
+      
       - name: Make changes to Git
         run: |
           git pull origin main
