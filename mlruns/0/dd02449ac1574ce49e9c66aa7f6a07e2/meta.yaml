@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dd02449ac1574ce49e9c66aa7f6a07e2/artifacts
+end_time: 1704097354346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd02449ac1574ce49e9c66aa7f6a07e2
+run_name: rebellious-bear-260
+run_uuid: dd02449ac1574ce49e9c66aa7f6a07e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704097354325
+status: 3
+tags: []
+user_id: runner
