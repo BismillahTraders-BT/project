@@ -40,8 +40,8 @@ X_transformed = column_transformer.fit_transform(X)
 
 # Split the transformed data into training and validation sets
 X_train, X_test, y_train, y_test = train_test_split(X_transformed, y, test_size=0.2, random_state=42)
-X_train_df = pd.DataFrame(X_train, columns=[f'feature_{i}' for i in range(X_train.shape[1])])
-X_train_df.to_csv('train_data.csv', index=False)
+# X_train_df = pd.DataFrame(X_train, columns=[f'feature_{i}' for i in range(X_train.shape[1])])
+# X_train_df.to_csv('train_data.csv', index=False)
 
 
 

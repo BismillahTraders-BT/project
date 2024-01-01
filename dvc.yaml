@@ -3,4 +3,6 @@ stages:
     cmd: python data/random_data.py
   process_and_train_model:
     cmd: python train.py
+  monitor_model:
+    cmd: python monitor.py
     
