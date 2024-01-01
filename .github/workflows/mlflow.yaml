@@ -54,7 +54,6 @@ jobs:
           
       - name: Commit changes to Git
         run: |
-          git pull origin main
           git add .
           git commit -m "Update data"
           git push origin main
