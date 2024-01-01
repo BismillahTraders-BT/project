@@ -44,15 +44,6 @@ jobs:
           git config --global user.email "tradersbismillah282@gmail.com"
           git config --global user.name "BismillahTraders-BT"
 
-      - name: Add changes to Git
-        run: |
-          git add .
-
-      - name: Remove model.pkl from Git tracking
-        run: |
-          git rm -r --cached model.pkl
-          git commit -m "Stop tracking model.pkl"
-
       - name: DVC Add
         run: |
           dvc add data/dummy_sensor_data.csv model.pkl
@@ -63,5 +54,7 @@ jobs:
           
       - name: Commit changes to Git
         run: |
+          git pull origin main
+          git add .
           git commit -m "Update data"
           git push origin main
