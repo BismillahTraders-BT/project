@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/2e9670d27c36484e98c053c2daac538e/artifacts
+end_time: 1704091851030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e9670d27c36484e98c053c2daac538e
+run_name: chill-panda-318
+run_uuid: 2e9670d27c36484e98c053c2daac538e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704091851011
+status: 3
+tags: []
+user_id: runner
