@@ -80,14 +80,13 @@ with mlflow.start_run() as run:
     mae = mean_absolute_error(y_test, predictions)
     r2 = r2_score(y_test, predictions)
     rmse = np.sqrt(mse)
-    score = model.best_score_
+    
     print(f"Evaluation Errors: MSE[{mse}], MAE[{mae}], R2[{r2}], RMSE[{rmse}]")
     mlflow_metrics = {
         "mse": mse,
         "mae": mae,
         "r2": r2,
         "rmse": rmse,
-        "score": score
     }
 
     best_params = grid_search.best_params_
