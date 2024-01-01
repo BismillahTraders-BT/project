@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/585b42a056704c2cbf3d723495e1fe79/artifacts
+end_time: 1704079109163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 585b42a056704c2cbf3d723495e1fe79
+run_name: welcoming-foal-32
+run_uuid: 585b42a056704c2cbf3d723495e1fe79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704079109147
+status: 3
+tags: []
+user_id: runner
