@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/fa681044e23f4b6a8819567e2781144e/artifacts
+end_time: 1704136475093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa681044e23f4b6a8819567e2781144e
+run_name: capricious-flea-919
+run_uuid: fa681044e23f4b6a8819567e2781144e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704136475077
+status: 3
+tags: []
+user_id: runner
