@@ -15,7 +15,7 @@ RUN pip install Flask pandas mlflow scikit-learn
 EXPOSE 5000
 
 # Define environment variable to disable Flask's default setting to run the app in production mode
-ENV FLASK_ENV=development
+# ENV FLASK_ENV=development
 
 # Run the application
 CMD ["python", "app.py"]
