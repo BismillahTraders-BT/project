@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d1ed53d04c13438795c67882083ff8ad/artifacts
+end_time: 1704089375805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1ed53d04c13438795c67882083ff8ad
+run_name: abundant-squid-915
+run_uuid: d1ed53d04c13438795c67882083ff8ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704089375787
+status: 3
+tags: []
+user_id: runner
