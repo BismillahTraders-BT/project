@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c916b942a4a447d68a02d6672a7d060a/artifacts
+end_time: 1704091033285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c916b942a4a447d68a02d6672a7d060a
+run_name: luxuriant-jay-311
+run_uuid: c916b942a4a447d68a02d6672a7d060a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704091033267
+status: 3
+tags: []
+user_id: runner
