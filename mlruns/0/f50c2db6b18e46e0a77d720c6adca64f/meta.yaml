@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f50c2db6b18e46e0a77d720c6adca64f/artifacts
+end_time: 1704093419133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f50c2db6b18e46e0a77d720c6adca64f
+run_name: abrasive-quail-488
+run_uuid: f50c2db6b18e46e0a77d720c6adca64f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704093419118
+status: 3
+tags: []
+user_id: runner
