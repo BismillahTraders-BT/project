@@ -1,0 +1,11 @@
+i200699:
+    - Data Aquisition
+    - Data Preprocessing
+
+i200820:
+    - Model Training
+    - Flask Application
+
+i202440:
+    - Deployment
+    - Tracking and Concept Drift
