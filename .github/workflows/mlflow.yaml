@@ -46,7 +46,7 @@ jobs:
 
       - name: DVC Add
         run: |
-          dvc add data/dummy_sensor_data.csv model.pkl
+          dvc add data/dummy_sensor_data.csv
 
       - name: Push data to DVC remote
         run: |
