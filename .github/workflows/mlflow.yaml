@@ -46,7 +46,6 @@ jobs:
 
       - name: Add changes to Git
         run: |
-          git pull origin main
           git add .
 
       - name: Remove model.pkl from Git tracking
