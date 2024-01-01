@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/1ecb8dc710274ed9bde3be526563bc3c/artifacts
+end_time: 1704104372909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ecb8dc710274ed9bde3be526563bc3c
+run_name: monumental-swan-65
+run_uuid: 1ecb8dc710274ed9bde3be526563bc3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704104372890
+status: 3
+tags: []
+user_id: runner
