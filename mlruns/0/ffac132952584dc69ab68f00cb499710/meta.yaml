@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ffac132952584dc69ab68f00cb499710/artifacts
+end_time: 1704107702018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffac132952584dc69ab68f00cb499710
+run_name: intrigued-fish-29
+run_uuid: ffac132952584dc69ab68f00cb499710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704107701997
+status: 3
+tags: []
+user_id: runner
