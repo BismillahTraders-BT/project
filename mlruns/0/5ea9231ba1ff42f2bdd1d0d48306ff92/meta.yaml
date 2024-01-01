@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5ea9231ba1ff42f2bdd1d0d48306ff92/artifacts
+end_time: 1704126122920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ea9231ba1ff42f2bdd1d0d48306ff92
+run_name: sneaky-hound-218
+run_uuid: 5ea9231ba1ff42f2bdd1d0d48306ff92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704126122898
+status: 3
+tags: []
+user_id: runner
