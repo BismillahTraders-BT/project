@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dde03b7d758847a48fab5b469abc48fc/artifacts
+end_time: 1704085797115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dde03b7d758847a48fab5b469abc48fc
+run_name: angry-donkey-890
+run_uuid: dde03b7d758847a48fab5b469abc48fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704085797102
+status: 3
+tags: []
+user_id: runner
