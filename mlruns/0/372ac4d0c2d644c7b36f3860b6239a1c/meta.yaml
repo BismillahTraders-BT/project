@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/372ac4d0c2d644c7b36f3860b6239a1c/artifacts
+end_time: 1704143722118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 372ac4d0c2d644c7b36f3860b6239a1c
+run_name: fortunate-fawn-292
+run_uuid: 372ac4d0c2d644c7b36f3860b6239a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704143722096
+status: 3
+tags: []
+user_id: runner
