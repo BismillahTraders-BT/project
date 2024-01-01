@@ -56,8 +56,7 @@ jobs:
       - name: Push data to DVC remote
         run: |
           dvc push -r myremote
-
-      
+          
       - name: Make changes to Git
         run: |
           git pull origin main
