@@ -2,10 +2,11 @@ import mlflow
 import mlflow.sklearn
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import mean_squared_error
+from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score 
 from sklearn.ensemble import RandomForestRegressor
 import pickle
 import pandas as pd
+import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import ColumnTransformer
@@ -58,9 +59,6 @@ model.fit(X_train, y_train)
 
 # Validate the model
 predictions = model.predict(X_test)
-mse = mean_squared_error(y_test, predictions)
-print(f'Mean Squared Error: {mse}')
-
 
 # Define a smaller parameter grid
 param_grid = {
@@ -76,6 +74,22 @@ grid_search.fit(X_train, y_train)
 
 # Start an MLflow run# After grid search is completed
 with mlflow.start_run() as run:
+
+    # Evaluate the model using mean squared error
+    mse = mean_squared_error(y_test, predictions)
+    mae = mean_absolute_error(y_test, predictions)
+    r2 = r2_score(y_test, predictions)
+    rmse = np.sqrt(mse)
+    score = model.best_score_
+    print(f"Evaluation Errors: MSE[{mse}], MAE[{mae}], R2[{r2}], RMSE[{rmse}]")
+    mlflow_metrics = {
+        "mse": mse,
+        "mae": mae,
+        "r2": r2,
+        "rmse": rmse,
+        "score": score
+    }
+
     best_params = grid_search.best_params_
     best_model = grid_search.best_estimator_
 
