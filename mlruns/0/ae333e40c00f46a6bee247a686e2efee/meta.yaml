@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ae333e40c00f46a6bee247a686e2efee/artifacts
+end_time: 1704158032635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae333e40c00f46a6bee247a686e2efee
+run_name: nosy-jay-95
+run_uuid: ae333e40c00f46a6bee247a686e2efee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704158032612
+status: 3
+tags: []
+user_id: runner
