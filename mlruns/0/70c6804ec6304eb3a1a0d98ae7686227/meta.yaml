@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/70c6804ec6304eb3a1a0d98ae7686227/artifacts
+end_time: 1704198759897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70c6804ec6304eb3a1a0d98ae7686227
+run_name: burly-goose-862
+run_uuid: 70c6804ec6304eb3a1a0d98ae7686227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704198759879
+status: 3
+tags: []
+user_id: runner
