@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e4a2fa13f9534e73ab073053dfe8f85c/artifacts
+end_time: 1704194105469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4a2fa13f9534e73ab073053dfe8f85c
+run_name: stylish-crane-792
+run_uuid: e4a2fa13f9534e73ab073053dfe8f85c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704194105452
+status: 3
+tags: []
+user_id: runner
