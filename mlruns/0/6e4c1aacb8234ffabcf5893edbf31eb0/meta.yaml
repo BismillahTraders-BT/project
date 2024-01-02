@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/6e4c1aacb8234ffabcf5893edbf31eb0/artifacts
+end_time: 1704233803255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e4c1aacb8234ffabcf5893edbf31eb0
+run_name: polite-lamb-245
+run_uuid: 6e4c1aacb8234ffabcf5893edbf31eb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704233803228
+status: 3
+tags: []
+user_id: runner
