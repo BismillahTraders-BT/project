@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/beb458ccb663428abe7df65508f10f05/artifacts
+end_time: 1704212475330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: beb458ccb663428abe7df65508f10f05
+run_name: legendary-deer-106
+run_uuid: beb458ccb663428abe7df65508f10f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704212475303
+status: 3
+tags: []
+user_id: runner
