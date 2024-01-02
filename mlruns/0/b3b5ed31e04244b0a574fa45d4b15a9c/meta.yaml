@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b3b5ed31e04244b0a574fa45d4b15a9c/artifacts
+end_time: 1704176581325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3b5ed31e04244b0a574fa45d4b15a9c
+run_name: sassy-trout-734
+run_uuid: b3b5ed31e04244b0a574fa45d4b15a9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704176581308
+status: 3
+tags: []
+user_id: runner
