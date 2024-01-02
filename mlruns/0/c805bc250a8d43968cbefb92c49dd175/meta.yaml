@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c805bc250a8d43968cbefb92c49dd175/artifacts
+end_time: 1704222860509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c805bc250a8d43968cbefb92c49dd175
+run_name: auspicious-sloth-596
+run_uuid: c805bc250a8d43968cbefb92c49dd175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704222860482
+status: 3
+tags: []
+user_id: runner
