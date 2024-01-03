@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/427098410ade49e8802195ba3f3c9a49/artifacts
+end_time: 1704309285085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 427098410ade49e8802195ba3f3c9a49
+run_name: efficient-mouse-461
+run_uuid: 427098410ade49e8802195ba3f3c9a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704309285052
+status: 3
+tags: []
+user_id: runner
