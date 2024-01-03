@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0a99af8420b843eb8d92a3b2a07e3974/artifacts
+end_time: 1704273529066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a99af8420b843eb8d92a3b2a07e3974
+run_name: wistful-hare-556
+run_uuid: 0a99af8420b843eb8d92a3b2a07e3974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704273529034
+status: 3
+tags: []
+user_id: runner
