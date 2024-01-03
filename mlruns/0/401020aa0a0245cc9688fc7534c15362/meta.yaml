@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/401020aa0a0245cc9688fc7534c15362/artifacts
+end_time: 1704323969005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 401020aa0a0245cc9688fc7534c15362
+run_name: rumbling-slug-738
+run_uuid: 401020aa0a0245cc9688fc7534c15362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704323968971
+status: 3
+tags: []
+user_id: runner
