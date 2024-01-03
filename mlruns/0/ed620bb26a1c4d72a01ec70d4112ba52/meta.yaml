@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ed620bb26a1c4d72a01ec70d4112ba52/artifacts
+end_time: 1704262986449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed620bb26a1c4d72a01ec70d4112ba52
+run_name: masked-kite-776
+run_uuid: ed620bb26a1c4d72a01ec70d4112ba52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704262986419
+status: 3
+tags: []
+user_id: runner
