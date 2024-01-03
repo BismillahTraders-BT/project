@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0159dd669a494257b25dddefffe4e252/artifacts
+end_time: 1704298891403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0159dd669a494257b25dddefffe4e252
+run_name: amazing-mouse-196
+run_uuid: 0159dd669a494257b25dddefffe4e252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704298891381
+status: 3
+tags: []
+user_id: runner
