@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/60844440b6df4217b5bf393f68407224/artifacts
+end_time: 1704288061708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60844440b6df4217b5bf393f68407224
+run_name: redolent-auk-546
+run_uuid: 60844440b6df4217b5bf393f68407224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704288061677
+status: 3
+tags: []
+user_id: runner
