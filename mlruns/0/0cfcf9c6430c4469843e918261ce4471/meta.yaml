@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0cfcf9c6430c4469843e918261ce4471/artifacts
+end_time: 1704251983007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cfcf9c6430c4469843e918261ce4471
+run_name: omniscient-auk-955
+run_uuid: 0cfcf9c6430c4469843e918261ce4471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704251982978
+status: 3
+tags: []
+user_id: runner
