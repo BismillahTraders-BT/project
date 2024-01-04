@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d4485495e6e2479b874d47648808cd0f/artifacts
+end_time: 1704349424879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4485495e6e2479b874d47648808cd0f
+run_name: legendary-ape-363
+run_uuid: d4485495e6e2479b874d47648808cd0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704349424857
+status: 3
+tags: []
+user_id: runner
