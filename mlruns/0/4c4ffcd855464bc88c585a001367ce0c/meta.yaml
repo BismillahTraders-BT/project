@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/4c4ffcd855464bc88c585a001367ce0c/artifacts
+end_time: 1704366939459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c4ffcd855464bc88c585a001367ce0c
+run_name: spiffy-dove-630
+run_uuid: 4c4ffcd855464bc88c585a001367ce0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704366939423
+status: 3
+tags: []
+user_id: runner
