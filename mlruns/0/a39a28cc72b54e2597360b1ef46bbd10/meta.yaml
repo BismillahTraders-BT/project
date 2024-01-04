@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a39a28cc72b54e2597360b1ef46bbd10/artifacts
+end_time: 1704388577541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a39a28cc72b54e2597360b1ef46bbd10
+run_name: gregarious-mink-882
+run_uuid: a39a28cc72b54e2597360b1ef46bbd10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704388577517
+status: 3
+tags: []
+user_id: runner
