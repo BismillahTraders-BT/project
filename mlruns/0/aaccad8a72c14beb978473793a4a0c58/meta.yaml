@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/aaccad8a72c14beb978473793a4a0c58/artifacts
+end_time: 1704385387540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aaccad8a72c14beb978473793a4a0c58
+run_name: able-trout-223
+run_uuid: aaccad8a72c14beb978473793a4a0c58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704385387503
+status: 3
+tags: []
+user_id: runner
