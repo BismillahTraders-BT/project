@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c9d0e1bf38224e0597bc7c3d25aac18c/artifacts
+end_time: 1704356495903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9d0e1bf38224e0597bc7c3d25aac18c
+run_name: selective-snake-11
+run_uuid: c9d0e1bf38224e0597bc7c3d25aac18c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704356495880
+status: 3
+tags: []
+user_id: runner
