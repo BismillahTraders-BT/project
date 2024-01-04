@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/7776d29f3b4f4a89a60b02faecdd3b2d/artifacts
+end_time: 1704352597285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7776d29f3b4f4a89a60b02faecdd3b2d
+run_name: popular-kit-655
+run_uuid: 7776d29f3b4f4a89a60b02faecdd3b2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704352597249
+status: 3
+tags: []
+user_id: runner
