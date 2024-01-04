@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/1439675cad2942ccbd29f137dcac37ab/artifacts
+end_time: 1704410297914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1439675cad2942ccbd29f137dcac37ab
+run_name: rambunctious-cow-897
+run_uuid: 1439675cad2942ccbd29f137dcac37ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704410297875
+status: 3
+tags: []
+user_id: runner
