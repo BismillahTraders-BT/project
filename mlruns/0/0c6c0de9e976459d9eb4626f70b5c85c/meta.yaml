@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0c6c0de9e976459d9eb4626f70b5c85c/artifacts
+end_time: 1704363567067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c6c0de9e976459d9eb4626f70b5c85c
+run_name: honorable-hare-179
+run_uuid: 0c6c0de9e976459d9eb4626f70b5c85c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704363567030
+status: 3
+tags: []
+user_id: runner
