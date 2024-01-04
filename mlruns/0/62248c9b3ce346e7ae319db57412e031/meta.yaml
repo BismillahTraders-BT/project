@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/62248c9b3ce346e7ae319db57412e031/artifacts
+end_time: 1704345442410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62248c9b3ce346e7ae319db57412e031
+run_name: respected-elk-309
+run_uuid: 62248c9b3ce346e7ae319db57412e031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704345442375
+status: 3
+tags: []
+user_id: runner
