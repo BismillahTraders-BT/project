@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/cada92d5e36d4902a15921bbaf25918b/artifacts
+end_time: 1704417370558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cada92d5e36d4902a15921bbaf25918b
+run_name: popular-kite-741
+run_uuid: cada92d5e36d4902a15921bbaf25918b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704417370519
+status: 3
+tags: []
+user_id: runner
