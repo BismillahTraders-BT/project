@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/df7a892885ac4f9b91a559c196d018c9/artifacts
+end_time: 1704442957849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df7a892885ac4f9b91a559c196d018c9
+run_name: charming-foal-101
+run_uuid: df7a892885ac4f9b91a559c196d018c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704442957808
+status: 3
+tags: []
+user_id: runner
