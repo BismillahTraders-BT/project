@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/05fa9d4383bf48dcb19537ec8656c8fb/artifacts
+end_time: 1704449972751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05fa9d4383bf48dcb19537ec8656c8fb
+run_name: legendary-bee-884
+run_uuid: 05fa9d4383bf48dcb19537ec8656c8fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449972709
+status: 3
+tags: []
+user_id: runner
