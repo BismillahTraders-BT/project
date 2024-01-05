@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/70b96657c93f47c88bcc9ba72a5720ed/artifacts
+end_time: 1704446265109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70b96657c93f47c88bcc9ba72a5720ed
+run_name: inquisitive-frog-747
+run_uuid: 70b96657c93f47c88bcc9ba72a5720ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704446265084
+status: 3
+tags: []
+user_id: runner
