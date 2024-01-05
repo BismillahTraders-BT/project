@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f8db6442482a404681af17a42b9d3aba/artifacts
+end_time: 1704457981541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8db6442482a404681af17a42b9d3aba
+run_name: dashing-mouse-159
+run_uuid: f8db6442482a404681af17a42b9d3aba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704457981499
+status: 3
+tags: []
+user_id: runner
