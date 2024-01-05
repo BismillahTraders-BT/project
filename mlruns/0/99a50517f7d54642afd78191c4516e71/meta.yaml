@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/99a50517f7d54642afd78191c4516e71/artifacts
+end_time: 1704421816512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99a50517f7d54642afd78191c4516e71
+run_name: respected-snipe-288
+run_uuid: 99a50517f7d54642afd78191c4516e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704421816471
+status: 3
+tags: []
+user_id: runner
