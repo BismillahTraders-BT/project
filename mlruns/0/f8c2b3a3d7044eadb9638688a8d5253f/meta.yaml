@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f8c2b3a3d7044eadb9638688a8d5253f/artifacts
+end_time: 1704435789352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8c2b3a3d7044eadb9638688a8d5253f
+run_name: vaunted-shrew-272
+run_uuid: f8c2b3a3d7044eadb9638688a8d5253f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704435789311
+status: 3
+tags: []
+user_id: runner
