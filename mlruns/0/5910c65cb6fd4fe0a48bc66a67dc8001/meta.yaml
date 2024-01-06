@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5910c65cb6fd4fe0a48bc66a67dc8001/artifacts
+end_time: 1704522120641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5910c65cb6fd4fe0a48bc66a67dc8001
+run_name: righteous-asp-405
+run_uuid: 5910c65cb6fd4fe0a48bc66a67dc8001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704522120595
+status: 3
+tags: []
+user_id: runner
