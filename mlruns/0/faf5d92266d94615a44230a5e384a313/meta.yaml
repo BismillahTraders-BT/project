@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/faf5d92266d94615a44230a5e384a313/artifacts
+end_time: 1704514868318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faf5d92266d94615a44230a5e384a313
+run_name: agreeable-wolf-645
+run_uuid: faf5d92266d94615a44230a5e384a313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704514868272
+status: 3
+tags: []
+user_id: runner
