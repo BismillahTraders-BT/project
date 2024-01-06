@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/4c1b858a9fc0451f9a2dbe02baaad134/artifacts
+end_time: 1704561343663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c1b858a9fc0451f9a2dbe02baaad134
+run_name: gregarious-stoat-723
+run_uuid: 4c1b858a9fc0451f9a2dbe02baaad134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704561343615
+status: 3
+tags: []
+user_id: runner
