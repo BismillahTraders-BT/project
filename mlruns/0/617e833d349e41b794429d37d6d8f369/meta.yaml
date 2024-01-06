@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/617e833d349e41b794429d37d6d8f369/artifacts
+end_time: 1704511111216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 617e833d349e41b794429d37d6d8f369
+run_name: unruly-squirrel-63
+run_uuid: 617e833d349e41b794429d37d6d8f369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704511111170
+status: 3
+tags: []
+user_id: runner
