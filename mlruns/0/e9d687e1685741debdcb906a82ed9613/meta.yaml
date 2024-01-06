@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e9d687e1685741debdcb906a82ed9613/artifacts
+end_time: 1704544272942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9d687e1685741debdcb906a82ed9613
+run_name: peaceful-pig-39
+run_uuid: e9d687e1685741debdcb906a82ed9613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704544272895
+status: 3
+tags: []
+user_id: runner
