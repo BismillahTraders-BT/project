@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0dde110ebdfe4de097238170e4396f2c/artifacts
+end_time: 1704565276951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dde110ebdfe4de097238170e4396f2c
+run_name: legendary-turtle-287
+run_uuid: 0dde110ebdfe4de097238170e4396f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704565276902
+status: 3
+tags: []
+user_id: runner
