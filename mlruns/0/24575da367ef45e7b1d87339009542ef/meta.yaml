@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/24575da367ef45e7b1d87339009542ef/artifacts
+end_time: 1704536287184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24575da367ef45e7b1d87339009542ef
+run_name: nervous-ant-666
+run_uuid: 24575da367ef45e7b1d87339009542ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704536287137
+status: 3
+tags: []
+user_id: runner
