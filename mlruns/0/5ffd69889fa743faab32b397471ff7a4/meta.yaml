@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5ffd69889fa743faab32b397471ff7a4/artifacts
+end_time: 1704554217793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ffd69889fa743faab32b397471ff7a4
+run_name: peaceful-auk-991
+run_uuid: 5ffd69889fa743faab32b397471ff7a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704554217744
+status: 3
+tags: []
+user_id: runner
