@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/663b813c0b8f4707a8e625dbf3c76a9b/artifacts
+end_time: 1704503727418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 663b813c0b8f4707a8e625dbf3c76a9b
+run_name: rogue-shark-3
+run_uuid: 663b813c0b8f4707a8e625dbf3c76a9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704503727374
+status: 3
+tags: []
+user_id: runner
