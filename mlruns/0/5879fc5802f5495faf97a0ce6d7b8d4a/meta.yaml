@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5879fc5802f5495faf97a0ce6d7b8d4a/artifacts
+end_time: 1704601294273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5879fc5802f5495faf97a0ce6d7b8d4a
+run_name: wistful-stoat-71
+run_uuid: 5879fc5802f5495faf97a0ce6d7b8d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704601294223
+status: 3
+tags: []
+user_id: runner
