@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/beb80d4d11c743ffab0d73f71780ca7d/artifacts
+end_time: 1704597521116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: beb80d4d11c743ffab0d73f71780ca7d
+run_name: crawling-conch-24
+run_uuid: beb80d4d11c743ffab0d73f71780ca7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704597521085
+status: 3
+tags: []
+user_id: runner
