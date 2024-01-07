@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f867846659924db8b21bc1969f6affae/artifacts
+end_time: 1704622707451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f867846659924db8b21bc1969f6affae
+run_name: funny-stag-720
+run_uuid: f867846659924db8b21bc1969f6affae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704622707419
+status: 3
+tags: []
+user_id: runner
