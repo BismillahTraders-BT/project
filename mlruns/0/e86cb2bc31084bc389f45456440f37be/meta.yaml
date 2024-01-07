@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e86cb2bc31084bc389f45456440f37be/artifacts
+end_time: 1704640678252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e86cb2bc31084bc389f45456440f37be
+run_name: honorable-flea-796
+run_uuid: e86cb2bc31084bc389f45456440f37be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704640678198
+status: 3
+tags: []
+user_id: runner
