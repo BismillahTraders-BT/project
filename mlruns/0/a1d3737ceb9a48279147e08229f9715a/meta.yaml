@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a1d3737ceb9a48279147e08229f9715a/artifacts
+end_time: 1704626107506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1d3737ceb9a48279147e08229f9715a
+run_name: intrigued-dog-250
+run_uuid: a1d3737ceb9a48279147e08229f9715a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704626107454
+status: 3
+tags: []
+user_id: runner
