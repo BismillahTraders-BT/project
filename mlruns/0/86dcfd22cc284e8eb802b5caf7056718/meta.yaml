@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/86dcfd22cc284e8eb802b5caf7056718/artifacts
+end_time: 1704755929248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86dcfd22cc284e8eb802b5caf7056718
+run_name: mercurial-jay-471
+run_uuid: 86dcfd22cc284e8eb802b5caf7056718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704755929189
+status: 3
+tags: []
+user_id: runner
