@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d83c00a538ad4048a25d9c2540b32adb/artifacts
+end_time: 1704738207926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d83c00a538ad4048a25d9c2540b32adb
+run_name: puzzled-hare-668
+run_uuid: d83c00a538ad4048a25d9c2540b32adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704738207890
+status: 3
+tags: []
+user_id: runner
