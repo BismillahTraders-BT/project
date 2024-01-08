@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e99425f729f547f08f674ddf7276a677/artifacts
+end_time: 1704712555288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e99425f729f547f08f674ddf7276a677
+run_name: sneaky-fish-453
+run_uuid: e99425f729f547f08f674ddf7276a677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704712555228
+status: 3
+tags: []
+user_id: runner
