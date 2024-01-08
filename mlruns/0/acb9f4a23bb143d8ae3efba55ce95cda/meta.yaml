@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/acb9f4a23bb143d8ae3efba55ce95cda/artifacts
+end_time: 1704702236633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acb9f4a23bb143d8ae3efba55ce95cda
+run_name: popular-gnat-963
+run_uuid: acb9f4a23bb143d8ae3efba55ce95cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704702236576
+status: 3
+tags: []
+user_id: runner
