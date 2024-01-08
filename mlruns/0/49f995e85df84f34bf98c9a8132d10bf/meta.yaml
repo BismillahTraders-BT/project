@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/49f995e85df84f34bf98c9a8132d10bf/artifacts
+end_time: 1704687779179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49f995e85df84f34bf98c9a8132d10bf
+run_name: nebulous-zebra-54
+run_uuid: 49f995e85df84f34bf98c9a8132d10bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704687779143
+status: 3
+tags: []
+user_id: runner
