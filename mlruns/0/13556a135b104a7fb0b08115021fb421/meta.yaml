@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/13556a135b104a7fb0b08115021fb421/artifacts
+end_time: 1704676664120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13556a135b104a7fb0b08115021fb421
+run_name: invincible-stoat-877
+run_uuid: 13556a135b104a7fb0b08115021fb421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704676664087
+status: 3
+tags: []
+user_id: runner
