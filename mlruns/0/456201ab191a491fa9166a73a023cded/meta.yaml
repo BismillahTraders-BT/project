@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/456201ab191a491fa9166a73a023cded/artifacts
+end_time: 1704727145631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 456201ab191a491fa9166a73a023cded
+run_name: bold-flea-774
+run_uuid: 456201ab191a491fa9166a73a023cded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704727145573
+status: 3
+tags: []
+user_id: runner
