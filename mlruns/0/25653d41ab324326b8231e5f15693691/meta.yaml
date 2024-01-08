@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/25653d41ab324326b8231e5f15693691/artifacts
+end_time: 1704705536851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25653d41ab324326b8231e5f15693691
+run_name: brawny-auk-736
+run_uuid: 25653d41ab324326b8231e5f15693691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704705536793
+status: 3
+tags: []
+user_id: runner
