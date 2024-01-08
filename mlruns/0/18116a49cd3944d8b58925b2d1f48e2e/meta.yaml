@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/18116a49cd3944d8b58925b2d1f48e2e/artifacts
+end_time: 1704723447704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18116a49cd3944d8b58925b2d1f48e2e
+run_name: peaceful-dog-740
+run_uuid: 18116a49cd3944d8b58925b2d1f48e2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704723447646
+status: 3
+tags: []
+user_id: runner
