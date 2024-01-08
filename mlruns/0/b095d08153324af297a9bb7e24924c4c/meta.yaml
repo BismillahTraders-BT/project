@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b095d08153324af297a9bb7e24924c4c/artifacts
+end_time: 1704709220049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b095d08153324af297a9bb7e24924c4c
+run_name: delicate-shoat-266
+run_uuid: b095d08153324af297a9bb7e24924c4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704709219991
+status: 3
+tags: []
+user_id: runner
