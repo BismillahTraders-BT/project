@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5e08ddbfed684cdfa8e4fdf1dd8f2cc1/artifacts
+end_time: 1704748521206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e08ddbfed684cdfa8e4fdf1dd8f2cc1
+run_name: victorious-conch-284
+run_uuid: 5e08ddbfed684cdfa8e4fdf1dd8f2cc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704748521169
+status: 3
+tags: []
+user_id: runner
