@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/561f3dfd547a4e19a6dd0fc88dc5a7ee/artifacts
+end_time: 1704817416480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 561f3dfd547a4e19a6dd0fc88dc5a7ee
+run_name: honorable-koi-881
+run_uuid: 561f3dfd547a4e19a6dd0fc88dc5a7ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704817416415
+status: 3
+tags: []
+user_id: runner
