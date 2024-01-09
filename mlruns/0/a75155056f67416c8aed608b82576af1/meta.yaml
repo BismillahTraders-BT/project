@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a75155056f67416c8aed608b82576af1/artifacts
+end_time: 1704813555523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a75155056f67416c8aed608b82576af1
+run_name: mercurial-sponge-776
+run_uuid: a75155056f67416c8aed608b82576af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704813555485
+status: 3
+tags: []
+user_id: runner
