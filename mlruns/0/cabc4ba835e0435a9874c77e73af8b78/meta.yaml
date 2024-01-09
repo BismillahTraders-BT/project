@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/cabc4ba835e0435a9874c77e73af8b78/artifacts
+end_time: 1704803677867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cabc4ba835e0435a9874c77e73af8b78
+run_name: salty-vole-629
+run_uuid: cabc4ba835e0435a9874c77e73af8b78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704803677804
+status: 3
+tags: []
+user_id: runner
