@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/39218296147f46e9936ae2d59992324b/artifacts
+end_time: 1704777460925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39218296147f46e9936ae2d59992324b
+run_name: resilient-moth-333
+run_uuid: 39218296147f46e9936ae2d59992324b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704777460862
+status: 3
+tags: []
+user_id: runner
