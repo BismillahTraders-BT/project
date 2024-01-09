@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/077d5ccbfd7a444dac4fc6d42dcb3eb9/artifacts
+end_time: 1704781417526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 077d5ccbfd7a444dac4fc6d42dcb3eb9
+run_name: aged-shad-229
+run_uuid: 077d5ccbfd7a444dac4fc6d42dcb3eb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704781417463
+status: 3
+tags: []
+user_id: runner
