@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/79f06bfb74294d43a9d3c74418f7c00c/artifacts
+end_time: 1704770370019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79f06bfb74294d43a9d3c74418f7c00c
+run_name: casual-pug-747
+run_uuid: 79f06bfb74294d43a9d3c74418f7c00c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704770369982
+status: 3
+tags: []
+user_id: runner
