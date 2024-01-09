@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/8db091cc751a4226ae92d7f51ccab866/artifacts
+end_time: 1704806903953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8db091cc751a4226ae92d7f51ccab866
+run_name: casual-boar-433
+run_uuid: 8db091cc751a4226ae92d7f51ccab866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704806903887
+status: 3
+tags: []
+user_id: runner
