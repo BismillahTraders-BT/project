@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/60312d5572094379b9ecd49b54457eb7/artifacts
+end_time: 1704809865463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60312d5572094379b9ecd49b54457eb7
+run_name: bustling-elk-207
+run_uuid: 60312d5572094379b9ecd49b54457eb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704809865399
+status: 3
+tags: []
+user_id: runner
