@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/eaf2c568024d4c0daa743ec667762a8d/artifacts
+end_time: 1704784737358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaf2c568024d4c0daa743ec667762a8d
+run_name: secretive-boar-122
+run_uuid: eaf2c568024d4c0daa743ec667762a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704784737296
+status: 3
+tags: []
+user_id: runner
