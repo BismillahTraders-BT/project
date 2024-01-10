@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e1da87684b83493686bf0d4150d98814/artifacts
+end_time: 1704871031736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1da87684b83493686bf0d4150d98814
+run_name: melodic-gull-677
+run_uuid: e1da87684b83493686bf0d4150d98814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704871031669
+status: 3
+tags: []
+user_id: runner
