@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/059d64a86d7a457289d1b4ccbcbb6b35/artifacts
+end_time: 1704856782291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 059d64a86d7a457289d1b4ccbcbb6b35
+run_name: merciful-shad-941
+run_uuid: 059d64a86d7a457289d1b4ccbcbb6b35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704856782251
+status: 3
+tags: []
+user_id: runner
