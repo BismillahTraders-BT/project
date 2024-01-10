@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dd9f5367c0eb40dc8e2e3fd7fd2ab345/artifacts
+end_time: 1704903858026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd9f5367c0eb40dc8e2e3fd7fd2ab345
+run_name: unique-koi-598
+run_uuid: dd9f5367c0eb40dc8e2e3fd7fd2ab345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704903857954
+status: 3
+tags: []
+user_id: runner
