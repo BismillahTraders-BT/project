@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/bc05caf735bf4f2e94ba06a212cbc8f6/artifacts
+end_time: 1704925062194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc05caf735bf4f2e94ba06a212cbc8f6
+run_name: chill-lynx-173
+run_uuid: bc05caf735bf4f2e94ba06a212cbc8f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704925062122
+status: 3
+tags: []
+user_id: runner
