@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ef9f946d157447ba8de395d73d2c4b8f/artifacts
+end_time: 1704860537557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef9f946d157447ba8de395d73d2c4b8f
+run_name: whimsical-sow-278
+run_uuid: ef9f946d157447ba8de395d73d2c4b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704860537491
+status: 3
+tags: []
+user_id: runner
