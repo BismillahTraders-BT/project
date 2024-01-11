@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/58e6c4e963284117ad864fcbd96d1525/artifacts
+end_time: 1704993396047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58e6c4e963284117ad864fcbd96d1525
+run_name: skittish-bass-227
+run_uuid: 58e6c4e963284117ad864fcbd96d1525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704993395971
+status: 3
+tags: []
+user_id: runner
