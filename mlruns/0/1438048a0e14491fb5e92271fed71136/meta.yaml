@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/1438048a0e14491fb5e92271fed71136/artifacts
+end_time: 1705011439432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1438048a0e14491fb5e92271fed71136
+run_name: glamorous-newt-909
+run_uuid: 1438048a0e14491fb5e92271fed71136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705011439356
+status: 3
+tags: []
+user_id: runner
