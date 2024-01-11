@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c572ac6001744f268fb4e56d3a32b939/artifacts
+end_time: 1704976455406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c572ac6001744f268fb4e56d3a32b939
+run_name: rogue-snake-909
+run_uuid: c572ac6001744f268fb4e56d3a32b939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704976455331
+status: 3
+tags: []
+user_id: runner
