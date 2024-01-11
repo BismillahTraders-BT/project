@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/db8e2d496290499187f794d80b3cb02f/artifacts
+end_time: 1704971755664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db8e2d496290499187f794d80b3cb02f
+run_name: adventurous-ox-911
+run_uuid: db8e2d496290499187f794d80b3cb02f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704971755620
+status: 3
+tags: []
+user_id: runner
