@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/4c98d439d03547aca5d6d71e30479799/artifacts
+end_time: 1704954237459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c98d439d03547aca5d6d71e30479799
+run_name: big-mole-830
+run_uuid: 4c98d439d03547aca5d6d71e30479799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704954237387
+status: 3
+tags: []
+user_id: runner
