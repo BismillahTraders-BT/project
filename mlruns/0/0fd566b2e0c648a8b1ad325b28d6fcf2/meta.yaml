@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0fd566b2e0c648a8b1ad325b28d6fcf2/artifacts
+end_time: 1705000540100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fd566b2e0c648a8b1ad325b28d6fcf2
+run_name: masked-gnu-806
+run_uuid: 0fd566b2e0c648a8b1ad325b28d6fcf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705000540055
+status: 3
+tags: []
+user_id: runner
