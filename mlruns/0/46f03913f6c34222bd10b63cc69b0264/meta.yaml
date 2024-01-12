@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/46f03913f6c34222bd10b63cc69b0264/artifacts
+end_time: 1705065691595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46f03913f6c34222bd10b63cc69b0264
+run_name: gifted-mule-372
+run_uuid: 46f03913f6c34222bd10b63cc69b0264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705065691549
+status: 3
+tags: []
+user_id: runner
