@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/1be97e5849f24c6893553dac0a166992/artifacts
+end_time: 1705062828313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1be97e5849f24c6893553dac0a166992
+run_name: nimble-turtle-11
+run_uuid: 1be97e5849f24c6893553dac0a166992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705062828234
+status: 3
+tags: []
+user_id: runner
