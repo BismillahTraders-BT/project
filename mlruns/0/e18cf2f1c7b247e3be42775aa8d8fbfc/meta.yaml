@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e18cf2f1c7b247e3be42775aa8d8fbfc/artifacts
+end_time: 1705097841794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e18cf2f1c7b247e3be42775aa8d8fbfc
+run_name: aged-steed-686
+run_uuid: e18cf2f1c7b247e3be42775aa8d8fbfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705097841746
+status: 3
+tags: []
+user_id: runner
