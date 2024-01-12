@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/66726ce3e9f345389762ca122e58a27b/artifacts
+end_time: 1705090774771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66726ce3e9f345389762ca122e58a27b
+run_name: melodic-jay-554
+run_uuid: 66726ce3e9f345389762ca122e58a27b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705090774687
+status: 3
+tags: []
+user_id: runner
