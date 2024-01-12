@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/1f76db3a8f134463b3bd16eac6cad5c4/artifacts
+end_time: 1705022287672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f76db3a8f134463b3bd16eac6cad5c4
+run_name: defiant-worm-743
+run_uuid: 1f76db3a8f134463b3bd16eac6cad5c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705022287594
+status: 3
+tags: []
+user_id: runner
