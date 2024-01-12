@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c22b65dcf1c84f2f8513ee67741191af/artifacts
+end_time: 1705040669240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c22b65dcf1c84f2f8513ee67741191af
+run_name: adventurous-croc-654
+run_uuid: c22b65dcf1c84f2f8513ee67741191af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705040669162
+status: 3
+tags: []
+user_id: runner
