@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0a5db31ff397474399374a5cf004850c/artifacts
+end_time: 1705036686098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a5db31ff397474399374a5cf004850c
+run_name: dapper-doe-276
+run_uuid: 0a5db31ff397474399374a5cf004850c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705036686053
+status: 3
+tags: []
+user_id: runner
