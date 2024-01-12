@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0bb110bbc85d4664b15228cfef955f71/artifacts
+end_time: 1705094125290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bb110bbc85d4664b15228cfef955f71
+run_name: indecisive-colt-560
+run_uuid: 0bb110bbc85d4664b15228cfef955f71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705094125241
+status: 3
+tags: []
+user_id: runner
