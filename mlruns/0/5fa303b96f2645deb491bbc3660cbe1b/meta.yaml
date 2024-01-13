@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5fa303b96f2645deb491bbc3660cbe1b/artifacts
+end_time: 1705149120828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fa303b96f2645deb491bbc3660cbe1b
+run_name: dazzling-stork-949
+run_uuid: 5fa303b96f2645deb491bbc3660cbe1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705149120736
+status: 3
+tags: []
+user_id: runner
