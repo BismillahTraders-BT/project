@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/8cbce1cad1324adbab986ea637874e31/artifacts
+end_time: 1705115941968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cbce1cad1324adbab986ea637874e31
+run_name: wise-asp-118
+run_uuid: 8cbce1cad1324adbab986ea637874e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705115941877
+status: 3
+tags: []
+user_id: runner
