@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/fdd4b270553d4759be98940944d77491/artifacts
+end_time: 1705113030379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdd4b270553d4759be98940944d77491
+run_name: flawless-fowl-424
+run_uuid: fdd4b270553d4759be98940944d77491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705113030298
+status: 3
+tags: []
+user_id: runner
