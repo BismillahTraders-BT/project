@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/754bf4a87db549df85d77725d4a21ed1/artifacts
+end_time: 1705245471553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 754bf4a87db549df85d77725d4a21ed1
+run_name: dashing-elk-413
+run_uuid: 754bf4a87db549df85d77725d4a21ed1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705245471462
+status: 3
+tags: []
+user_id: runner
