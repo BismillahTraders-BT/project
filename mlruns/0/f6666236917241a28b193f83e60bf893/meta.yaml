@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f6666236917241a28b193f83e60bf893/artifacts
+end_time: 1705195389456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6666236917241a28b193f83e60bf893
+run_name: magnificent-ape-743
+run_uuid: f6666236917241a28b193f83e60bf893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705195389368
+status: 3
+tags: []
+user_id: runner
