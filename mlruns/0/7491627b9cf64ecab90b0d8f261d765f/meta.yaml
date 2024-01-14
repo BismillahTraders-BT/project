@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/7491627b9cf64ecab90b0d8f261d765f/artifacts
+end_time: 1705199700276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7491627b9cf64ecab90b0d8f261d765f
+run_name: hilarious-owl-374
+run_uuid: 7491627b9cf64ecab90b0d8f261d765f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705199700225
+status: 3
+tags: []
+user_id: runner
