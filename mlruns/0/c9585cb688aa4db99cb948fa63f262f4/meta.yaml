@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c9585cb688aa4db99cb948fa63f262f4/artifacts
+end_time: 1705213378061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9585cb688aa4db99cb948fa63f262f4
+run_name: likeable-bass-828
+run_uuid: c9585cb688aa4db99cb948fa63f262f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705213377973
+status: 3
+tags: []
+user_id: runner
