@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/bbf65db25ae24baabb43f78d62040aac/artifacts
+end_time: 1705249331164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbf65db25ae24baabb43f78d62040aac
+run_name: dazzling-whale-342
+run_uuid: bbf65db25ae24baabb43f78d62040aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705249331071
+status: 3
+tags: []
+user_id: runner
