@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/bf1f602232a242ecbdb07abfc37a59cc/artifacts
+end_time: 1705223822507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf1f602232a242ecbdb07abfc37a59cc
+run_name: nebulous-donkey-377
+run_uuid: bf1f602232a242ecbdb07abfc37a59cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705223822418
+status: 3
+tags: []
+user_id: runner
