@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/52b66060a22344e69c0ca691019aec6e/artifacts
+end_time: 1705216582450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52b66060a22344e69c0ca691019aec6e
+run_name: tasteful-stork-776
+run_uuid: 52b66060a22344e69c0ca691019aec6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705216582361
+status: 3
+tags: []
+user_id: runner
