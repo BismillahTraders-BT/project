@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/432ae8129f314768868d4f698b620d0b/artifacts
+end_time: 1705227519270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 432ae8129f314768868d4f698b620d0b
+run_name: traveling-whale-626
+run_uuid: 432ae8129f314768868d4f698b620d0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705227519179
+status: 3
+tags: []
+user_id: runner
