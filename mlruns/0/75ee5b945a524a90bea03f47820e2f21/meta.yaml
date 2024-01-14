@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/75ee5b945a524a90bea03f47820e2f21/artifacts
+end_time: 1705209426232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75ee5b945a524a90bea03f47820e2f21
+run_name: upset-dolphin-924
+run_uuid: 75ee5b945a524a90bea03f47820e2f21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705209426144
+status: 3
+tags: []
+user_id: runner
