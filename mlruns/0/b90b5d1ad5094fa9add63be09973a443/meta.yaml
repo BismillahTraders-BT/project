@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b90b5d1ad5094fa9add63be09973a443/artifacts
+end_time: 1705286119061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b90b5d1ad5094fa9add63be09973a443
+run_name: upset-eel-298
+run_uuid: b90b5d1ad5094fa9add63be09973a443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705286119008
+status: 3
+tags: []
+user_id: runner
