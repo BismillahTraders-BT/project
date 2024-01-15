@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e7de24713e6246e8ad6f4f6396208367/artifacts
+end_time: 1705328282826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7de24713e6246e8ad6f4f6396208367
+run_name: hilarious-goat-909
+run_uuid: e7de24713e6246e8ad6f4f6396208367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705328282730
+status: 3
+tags: []
+user_id: runner
