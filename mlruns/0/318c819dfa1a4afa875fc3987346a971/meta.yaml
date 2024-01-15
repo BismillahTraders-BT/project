@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/318c819dfa1a4afa875fc3987346a971/artifacts
+end_time: 1705357065692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 318c819dfa1a4afa875fc3987346a971
+run_name: efficient-steed-134
+run_uuid: 318c819dfa1a4afa875fc3987346a971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705357065636
+status: 3
+tags: []
+user_id: runner
