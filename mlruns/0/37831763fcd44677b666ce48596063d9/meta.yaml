@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/37831763fcd44677b666ce48596063d9/artifacts
+end_time: 1705281599003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37831763fcd44677b666ce48596063d9
+run_name: valuable-wasp-39
+run_uuid: 37831763fcd44677b666ce48596063d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705281598949
+status: 3
+tags: []
+user_id: runner
