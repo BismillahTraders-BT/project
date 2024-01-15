@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/03757c576a7148bfb2b28969f5c0cf99/artifacts
+end_time: 1705360731768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03757c576a7148bfb2b28969f5c0cf99
+run_name: bustling-perch-138
+run_uuid: 03757c576a7148bfb2b28969f5c0cf99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705360731670
+status: 3
+tags: []
+user_id: runner
