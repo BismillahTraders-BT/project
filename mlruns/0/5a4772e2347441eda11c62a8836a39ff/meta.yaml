@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5a4772e2347441eda11c62a8836a39ff/artifacts
+end_time: 1705335826686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a4772e2347441eda11c62a8836a39ff
+run_name: handsome-stoat-125
+run_uuid: 5a4772e2347441eda11c62a8836a39ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705335826587
+status: 3
+tags: []
+user_id: runner
