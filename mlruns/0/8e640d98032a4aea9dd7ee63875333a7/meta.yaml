@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/8e640d98032a4aea9dd7ee63875333a7/artifacts
+end_time: 1705346106851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e640d98032a4aea9dd7ee63875333a7
+run_name: resilient-bear-128
+run_uuid: 8e640d98032a4aea9dd7ee63875333a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705346106755
+status: 3
+tags: []
+user_id: runner
