@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c7f8e193c41d4a40b4a04daeff64752e/artifacts
+end_time: 1705389440975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7f8e193c41d4a40b4a04daeff64752e
+run_name: skittish-skink-655
+run_uuid: c7f8e193c41d4a40b4a04daeff64752e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705389440919
+status: 3
+tags: []
+user_id: runner
