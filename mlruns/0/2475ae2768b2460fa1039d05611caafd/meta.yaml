@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/2475ae2768b2460fa1039d05611caafd/artifacts
+end_time: 1705429386690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2475ae2768b2460fa1039d05611caafd
+run_name: glamorous-dog-487
+run_uuid: 2475ae2768b2460fa1039d05611caafd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705429386631
+status: 3
+tags: []
+user_id: runner
