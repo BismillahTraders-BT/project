@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d55325941cb64a0f83bf3f197cae5260/artifacts
+end_time: 1705418366169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d55325941cb64a0f83bf3f197cae5260
+run_name: amazing-bear-167
+run_uuid: d55325941cb64a0f83bf3f197cae5260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705418366111
+status: 3
+tags: []
+user_id: runner
