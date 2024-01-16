@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/af749ce864ea45dca47a262be9ad6be0/artifacts
+end_time: 1705367870155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af749ce864ea45dca47a262be9ad6be0
+run_name: nimble-squirrel-836
+run_uuid: af749ce864ea45dca47a262be9ad6be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705367870057
+status: 3
+tags: []
+user_id: runner
