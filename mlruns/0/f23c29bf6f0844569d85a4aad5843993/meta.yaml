@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f23c29bf6f0844569d85a4aad5843993/artifacts
+end_time: 1705529885579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f23c29bf6f0844569d85a4aad5843993
+run_name: classy-fish-354
+run_uuid: f23c29bf6f0844569d85a4aad5843993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705529885518
+status: 3
+tags: []
+user_id: runner
