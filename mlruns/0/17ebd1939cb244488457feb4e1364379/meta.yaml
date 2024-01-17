@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/17ebd1939cb244488457feb4e1364379/artifacts
+end_time: 1705511842106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17ebd1939cb244488457feb4e1364379
+run_name: skittish-perch-363
+run_uuid: 17ebd1939cb244488457feb4e1364379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705511842045
+status: 3
+tags: []
+user_id: runner
