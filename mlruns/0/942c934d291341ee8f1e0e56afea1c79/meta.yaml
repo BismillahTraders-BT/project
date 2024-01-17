@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/942c934d291341ee8f1e0e56afea1c79/artifacts
+end_time: 1705479818497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 942c934d291341ee8f1e0e56afea1c79
+run_name: legendary-wolf-787
+run_uuid: 942c934d291341ee8f1e0e56afea1c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705479818438
+status: 3
+tags: []
+user_id: runner
