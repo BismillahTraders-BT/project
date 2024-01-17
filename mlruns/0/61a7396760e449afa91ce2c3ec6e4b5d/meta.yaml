@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/61a7396760e449afa91ce2c3ec6e4b5d/artifacts
+end_time: 1705490162654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61a7396760e449afa91ce2c3ec6e4b5d
+run_name: bustling-panda-982
+run_uuid: 61a7396760e449afa91ce2c3ec6e4b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705490162593
+status: 3
+tags: []
+user_id: runner
