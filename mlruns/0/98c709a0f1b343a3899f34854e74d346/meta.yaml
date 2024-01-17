@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/98c709a0f1b343a3899f34854e74d346/artifacts
+end_time: 1705468679818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98c709a0f1b343a3899f34854e74d346
+run_name: calm-hound-18
+run_uuid: 98c709a0f1b343a3899f34854e74d346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705468679713
+status: 3
+tags: []
+user_id: runner
