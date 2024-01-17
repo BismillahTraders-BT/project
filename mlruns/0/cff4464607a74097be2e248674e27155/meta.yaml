@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/cff4464607a74097be2e248674e27155/artifacts
+end_time: 1705475891622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cff4464607a74097be2e248674e27155
+run_name: fearless-ant-842
+run_uuid: cff4464607a74097be2e248674e27155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705475891516
+status: 3
+tags: []
+user_id: runner
