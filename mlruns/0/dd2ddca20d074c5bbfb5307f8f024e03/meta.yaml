@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dd2ddca20d074c5bbfb5307f8f024e03/artifacts
+end_time: 1705486817407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd2ddca20d074c5bbfb5307f8f024e03
+run_name: fun-shrimp-178
+run_uuid: dd2ddca20d074c5bbfb5307f8f024e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705486817347
+status: 3
+tags: []
+user_id: runner
