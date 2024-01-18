@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dcaa2ad1aece46aa88fde28e0fee3e63/artifacts
+end_time: 1705591173576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcaa2ad1aece46aa88fde28e0fee3e63
+run_name: capable-dolphin-201
+run_uuid: dcaa2ad1aece46aa88fde28e0fee3e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705591173467
+status: 3
+tags: []
+user_id: runner
