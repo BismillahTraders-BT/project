@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/3aaee1e816b54afdb8395a07329f238e/artifacts
+end_time: 1705616275358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3aaee1e816b54afdb8395a07329f238e
+run_name: colorful-shark-111
+run_uuid: 3aaee1e816b54afdb8395a07329f238e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705616275293
+status: 3
+tags: []
+user_id: runner
