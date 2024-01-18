@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ece5d1dd2ea645b9966c5cb437349dfa/artifacts
+end_time: 1705581264193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ece5d1dd2ea645b9966c5cb437349dfa
+run_name: incongruous-gnu-769
+run_uuid: ece5d1dd2ea645b9966c5cb437349dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705581264083
+status: 3
+tags: []
+user_id: runner
