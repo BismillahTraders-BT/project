@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/54f8adbe680842c1b388fba4497b3151/artifacts
+end_time: 1705540658491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54f8adbe680842c1b388fba4497b3151
+run_name: funny-panda-274
+run_uuid: 54f8adbe680842c1b388fba4497b3151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705540658429
+status: 3
+tags: []
+user_id: runner
