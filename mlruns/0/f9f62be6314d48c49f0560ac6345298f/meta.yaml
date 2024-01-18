@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f9f62be6314d48c49f0560ac6345298f/artifacts
+end_time: 1705602194684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9f62be6314d48c49f0560ac6345298f
+run_name: upbeat-wren-505
+run_uuid: f9f62be6314d48c49f0560ac6345298f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705602194573
+status: 3
+tags: []
+user_id: runner
