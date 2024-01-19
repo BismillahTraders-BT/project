@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0d45a471262f42f6a3deb97e8136a7ae/artifacts
+end_time: 1705691715512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d45a471262f42f6a3deb97e8136a7ae
+run_name: intrigued-turtle-339
+run_uuid: 0d45a471262f42f6a3deb97e8136a7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705691715447
+status: 3
+tags: []
+user_id: runner
