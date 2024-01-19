@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/7824f4b551314eb7b1f32031b4a659e1/artifacts
+end_time: 1705655942909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7824f4b551314eb7b1f32031b4a659e1
+run_name: redolent-cow-621
+run_uuid: 7824f4b551314eb7b1f32031b4a659e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705655942793
+status: 3
+tags: []
+user_id: runner
