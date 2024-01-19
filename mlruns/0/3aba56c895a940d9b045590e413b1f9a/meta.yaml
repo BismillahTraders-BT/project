@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/3aba56c895a940d9b045590e413b1f9a/artifacts
+end_time: 1705631600651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3aba56c895a940d9b045590e413b1f9a
+run_name: wistful-conch-343
+run_uuid: 3aba56c895a940d9b045590e413b1f9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705631600588
+status: 3
+tags: []
+user_id: runner
