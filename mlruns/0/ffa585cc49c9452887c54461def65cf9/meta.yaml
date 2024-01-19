@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ffa585cc49c9452887c54461def65cf9/artifacts
+end_time: 1705652606021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffa585cc49c9452887c54461def65cf9
+run_name: bemused-swan-532
+run_uuid: ffa585cc49c9452887c54461def65cf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705652605957
+status: 3
+tags: []
+user_id: runner
