@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b019e0b1371b4bbf924ac019ea40ad66/artifacts
+end_time: 1705670522687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b019e0b1371b4bbf924ac019ea40ad66
+run_name: unique-smelt-807
+run_uuid: b019e0b1371b4bbf924ac019ea40ad66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705670522623
+status: 3
+tags: []
+user_id: runner
