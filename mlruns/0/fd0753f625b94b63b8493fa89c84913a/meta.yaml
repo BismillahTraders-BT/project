@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/fd0753f625b94b63b8493fa89c84913a/artifacts
+end_time: 1705627125408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd0753f625b94b63b8493fa89c84913a
+run_name: nebulous-bass-855
+run_uuid: fd0753f625b94b63b8493fa89c84913a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705627125344
+status: 3
+tags: []
+user_id: runner
