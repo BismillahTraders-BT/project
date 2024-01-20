@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/20d9b1abd0c4474aa060a00420115269/artifacts
+end_time: 1705753919363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20d9b1abd0c4474aa060a00420115269
+run_name: gregarious-stork-431
+run_uuid: 20d9b1abd0c4474aa060a00420115269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705753919243
+status: 3
+tags: []
+user_id: runner
