@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/7cf8e1429b7a4931b0cf41250441cc77/artifacts
+end_time: 1705778108461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cf8e1429b7a4931b0cf41250441cc77
+run_name: selective-shad-172
+run_uuid: 7cf8e1429b7a4931b0cf41250441cc77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705778108341
+status: 3
+tags: []
+user_id: runner
