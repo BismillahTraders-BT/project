@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/6e2db2ad7d2e42a9a20c97abdad0e61d/artifacts
+end_time: 1705774899359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e2db2ad7d2e42a9a20c97abdad0e61d
+run_name: colorful-mare-541
+run_uuid: 6e2db2ad7d2e42a9a20c97abdad0e61d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705774899295
+status: 3
+tags: []
+user_id: runner
