@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/4a4aefdffc4f4d91abfe473f7e02ac4b/artifacts
+end_time: 1705760177348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a4aefdffc4f4d91abfe473f7e02ac4b
+run_name: melodic-chimp-303
+run_uuid: 4a4aefdffc4f4d91abfe473f7e02ac4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705760177228
+status: 3
+tags: []
+user_id: runner
