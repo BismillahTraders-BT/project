@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/39bf47e4cab64729bae0cf67bc87f984/artifacts
+end_time: 1705717830502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39bf47e4cab64729bae0cf67bc87f984
+run_name: thundering-fly-932
+run_uuid: 39bf47e4cab64729bae0cf67bc87f984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705717830435
+status: 3
+tags: []
+user_id: runner
