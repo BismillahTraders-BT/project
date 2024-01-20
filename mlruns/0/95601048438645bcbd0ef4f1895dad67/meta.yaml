@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/95601048438645bcbd0ef4f1895dad67/artifacts
+end_time: 1705749291875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95601048438645bcbd0ef4f1895dad67
+run_name: thoughtful-dove-801
+run_uuid: 95601048438645bcbd0ef4f1895dad67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705749291807
+status: 3
+tags: []
+user_id: runner
