@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f31e59d49791483fac244fcde8ffe70f/artifacts
+end_time: 1705767787953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f31e59d49791483fac244fcde8ffe70f
+run_name: mysterious-duck-638
+run_uuid: f31e59d49791483fac244fcde8ffe70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705767787834
+status: 3
+tags: []
+user_id: runner
