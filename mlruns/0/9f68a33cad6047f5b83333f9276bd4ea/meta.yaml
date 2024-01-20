@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/9f68a33cad6047f5b83333f9276bd4ea/artifacts
+end_time: 1705785352123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f68a33cad6047f5b83333f9276bd4ea
+run_name: intrigued-shrew-45
+run_uuid: 9f68a33cad6047f5b83333f9276bd4ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705785352003
+status: 3
+tags: []
+user_id: runner
