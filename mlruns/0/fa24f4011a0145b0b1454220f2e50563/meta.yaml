@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/fa24f4011a0145b0b1454220f2e50563/artifacts
+end_time: 1705861357475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa24f4011a0145b0b1454220f2e50563
+run_name: persistent-squid-664
+run_uuid: fa24f4011a0145b0b1454220f2e50563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705861357404
+status: 3
+tags: []
+user_id: runner
