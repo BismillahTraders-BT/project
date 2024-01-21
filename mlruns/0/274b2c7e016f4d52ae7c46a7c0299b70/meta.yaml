@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/274b2c7e016f4d52ae7c46a7c0299b70/artifacts
+end_time: 1705835707317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 274b2c7e016f4d52ae7c46a7c0299b70
+run_name: amusing-loon-632
+run_uuid: 274b2c7e016f4d52ae7c46a7c0299b70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705835707189
+status: 3
+tags: []
+user_id: runner
