@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a6e71a94dc7f43aaa21748cc85fa69bf/artifacts
+end_time: 1705875442694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6e71a94dc7f43aaa21748cc85fa69bf
+run_name: honorable-lark-738
+run_uuid: a6e71a94dc7f43aaa21748cc85fa69bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705875442569
+status: 3
+tags: []
+user_id: runner
