@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/eabc1f401a9c482b85456569dccd564e/artifacts
+end_time: 1705864506111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eabc1f401a9c482b85456569dccd564e
+run_name: clean-cow-384
+run_uuid: eabc1f401a9c482b85456569dccd564e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705864505978
+status: 3
+tags: []
+user_id: runner
