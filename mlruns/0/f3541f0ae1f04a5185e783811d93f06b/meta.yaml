@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f3541f0ae1f04a5185e783811d93f06b/artifacts
+end_time: 1705807156730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3541f0ae1f04a5185e783811d93f06b
+run_name: bouncy-midge-251
+run_uuid: f3541f0ae1f04a5185e783811d93f06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705807156662
+status: 3
+tags: []
+user_id: runner
