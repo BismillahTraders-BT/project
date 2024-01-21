@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0d43f87633da426dbd6e3efaec5ef81f/artifacts
+end_time: 1705800224675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d43f87633da426dbd6e3efaec5ef81f
+run_name: bustling-hen-453
+run_uuid: 0d43f87633da426dbd6e3efaec5ef81f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705800224554
+status: 3
+tags: []
+user_id: runner
