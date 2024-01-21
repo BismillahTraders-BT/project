@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5447f27fa9ef49e38d9189c2e7b2a44c/artifacts
+end_time: 1705840328486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5447f27fa9ef49e38d9189c2e7b2a44c
+run_name: hilarious-zebra-868
+run_uuid: 5447f27fa9ef49e38d9189c2e7b2a44c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705840328364
+status: 3
+tags: []
+user_id: runner
