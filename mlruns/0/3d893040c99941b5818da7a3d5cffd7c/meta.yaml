@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/3d893040c99941b5818da7a3d5cffd7c/artifacts
+end_time: 1705810901715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d893040c99941b5818da7a3d5cffd7c
+run_name: valuable-mule-102
+run_uuid: 3d893040c99941b5818da7a3d5cffd7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705810901647
+status: 3
+tags: []
+user_id: runner
