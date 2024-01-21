@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d834aa1780564590b6d6b83f7930bc8a/artifacts
+end_time: 1705821403769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d834aa1780564590b6d6b83f7930bc8a
+run_name: bold-perch-384
+run_uuid: d834aa1780564590b6d6b83f7930bc8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705821403649
+status: 3
+tags: []
+user_id: runner
