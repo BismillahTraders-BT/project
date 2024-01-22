@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/6cad67a7eeff4e13ac85f5779ce3f58e/artifacts
+end_time: 1705947826553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cad67a7eeff4e13ac85f5779ce3f58e
+run_name: powerful-skunk-388
+run_uuid: 6cad67a7eeff4e13ac85f5779ce3f58e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705947826422
+status: 3
+tags: []
+user_id: runner
