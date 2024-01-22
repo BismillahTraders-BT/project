@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/af4131cd06f445bbbf02562ed9d8539b/artifacts
+end_time: 1705943840380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af4131cd06f445bbbf02562ed9d8539b
+run_name: bold-vole-717
+run_uuid: af4131cd06f445bbbf02562ed9d8539b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705943840251
+status: 3
+tags: []
+user_id: runner
