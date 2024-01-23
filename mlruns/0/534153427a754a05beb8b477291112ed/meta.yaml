@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/534153427a754a05beb8b477291112ed/artifacts
+end_time: 1706008593267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 534153427a754a05beb8b477291112ed
+run_name: legendary-fawn-711
+run_uuid: 534153427a754a05beb8b477291112ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706008593134
+status: 3
+tags: []
+user_id: runner
