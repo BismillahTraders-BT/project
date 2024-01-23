@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e48fca59ac4f41338861c93864a628b4/artifacts
+end_time: 1706048301703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e48fca59ac4f41338861c93864a628b4
+run_name: bright-gnat-789
+run_uuid: e48fca59ac4f41338861c93864a628b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706048301625
+status: 3
+tags: []
+user_id: runner
