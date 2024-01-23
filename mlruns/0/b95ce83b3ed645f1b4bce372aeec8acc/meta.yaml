@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b95ce83b3ed645f1b4bce372aeec8acc/artifacts
+end_time: 1705977239259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b95ce83b3ed645f1b4bce372aeec8acc
+run_name: vaunted-smelt-533
+run_uuid: b95ce83b3ed645f1b4bce372aeec8acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705977239129
+status: 3
+tags: []
+user_id: runner
