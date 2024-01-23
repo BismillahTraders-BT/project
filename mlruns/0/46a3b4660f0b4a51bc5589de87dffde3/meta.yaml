@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/46a3b4660f0b4a51bc5589de87dffde3/artifacts
+end_time: 1705991104119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46a3b4660f0b4a51bc5589de87dffde3
+run_name: beautiful-hawk-583
+run_uuid: 46a3b4660f0b4a51bc5589de87dffde3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705991103986
+status: 3
+tags: []
+user_id: runner
