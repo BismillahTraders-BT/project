@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/1bd67d2403584d2fa48da954de5076ad/artifacts
+end_time: 1705994315332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bd67d2403584d2fa48da954de5076ad
+run_name: melodic-doe-26
+run_uuid: 1bd67d2403584d2fa48da954de5076ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705994315199
+status: 3
+tags: []
+user_id: runner
