@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e003fab5f5a0426da5c70069028fec1c/artifacts
+end_time: 1706105912577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e003fab5f5a0426da5c70069028fec1c
+run_name: bemused-perch-490
+run_uuid: e003fab5f5a0426da5c70069028fec1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706105912436
+status: 3
+tags: []
+user_id: runner
