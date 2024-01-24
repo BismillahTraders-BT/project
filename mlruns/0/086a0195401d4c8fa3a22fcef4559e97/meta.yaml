@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/086a0195401d4c8fa3a22fcef4559e97/artifacts
+end_time: 1706109639002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 086a0195401d4c8fa3a22fcef4559e97
+run_name: caring-trout-42
+run_uuid: 086a0195401d4c8fa3a22fcef4559e97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706109638863
+status: 3
+tags: []
+user_id: runner
