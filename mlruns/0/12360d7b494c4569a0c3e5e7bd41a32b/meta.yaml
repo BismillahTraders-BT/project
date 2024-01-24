@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/12360d7b494c4569a0c3e5e7bd41a32b/artifacts
+end_time: 1706059172867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12360d7b494c4569a0c3e5e7bd41a32b
+run_name: overjoyed-crow-148
+run_uuid: 12360d7b494c4569a0c3e5e7bd41a32b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706059172789
+status: 3
+tags: []
+user_id: runner
