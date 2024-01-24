@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d9dce5c0925c4ef9b2e4578a3880230b/artifacts
+end_time: 1706102559284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9dce5c0925c4ef9b2e4578a3880230b
+run_name: upset-bat-955
+run_uuid: d9dce5c0925c4ef9b2e4578a3880230b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706102559147
+status: 3
+tags: []
+user_id: runner
