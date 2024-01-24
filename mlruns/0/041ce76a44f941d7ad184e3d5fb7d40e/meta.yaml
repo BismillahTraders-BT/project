@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/041ce76a44f941d7ad184e3d5fb7d40e/artifacts
+end_time: 1706066413401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 041ce76a44f941d7ad184e3d5fb7d40e
+run_name: unruly-ox-323
+run_uuid: 041ce76a44f941d7ad184e3d5fb7d40e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706066413264
+status: 3
+tags: []
+user_id: runner
