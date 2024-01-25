@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dad3f0d19bc8495fb8ce82e57abdd9b2/artifacts
+end_time: 1706156595024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dad3f0d19bc8495fb8ce82e57abdd9b2
+run_name: treasured-colt-664
+run_uuid: dad3f0d19bc8495fb8ce82e57abdd9b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706156594882
+status: 3
+tags: []
+user_id: runner
