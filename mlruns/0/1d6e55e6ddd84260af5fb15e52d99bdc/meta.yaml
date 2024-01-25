@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/1d6e55e6ddd84260af5fb15e52d99bdc/artifacts
+end_time: 1706188975079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d6e55e6ddd84260af5fb15e52d99bdc
+run_name: glamorous-asp-923
+run_uuid: 1d6e55e6ddd84260af5fb15e52d99bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706188974999
+status: 3
+tags: []
+user_id: runner
