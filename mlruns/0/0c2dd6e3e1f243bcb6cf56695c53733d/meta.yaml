@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0c2dd6e3e1f243bcb6cf56695c53733d/artifacts
+end_time: 1706210140851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c2dd6e3e1f243bcb6cf56695c53733d
+run_name: luxuriant-ox-536
+run_uuid: 0c2dd6e3e1f243bcb6cf56695c53733d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706210140770
+status: 3
+tags: []
+user_id: runner
