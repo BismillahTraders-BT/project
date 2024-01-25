@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/2277350bff834374b947f683df39c5bc/artifacts
+end_time: 1706217357708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2277350bff834374b947f683df39c5bc
+run_name: bustling-ram-947
+run_uuid: 2277350bff834374b947f683df39c5bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706217357562
+status: 3
+tags: []
+user_id: runner
