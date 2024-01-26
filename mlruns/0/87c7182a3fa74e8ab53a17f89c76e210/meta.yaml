@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/87c7182a3fa74e8ab53a17f89c76e210/artifacts
+end_time: 1706264367550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87c7182a3fa74e8ab53a17f89c76e210
+run_name: masked-squirrel-247
+run_uuid: 87c7182a3fa74e8ab53a17f89c76e210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706264367400
+status: 3
+tags: []
+user_id: runner
