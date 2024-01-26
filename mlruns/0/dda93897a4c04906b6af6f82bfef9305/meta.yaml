@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dda93897a4c04906b6af6f82bfef9305/artifacts
+end_time: 1706260730737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dda93897a4c04906b6af6f82bfef9305
+run_name: youthful-toad-26
+run_uuid: dda93897a4c04906b6af6f82bfef9305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706260730653
+status: 3
+tags: []
+user_id: runner
