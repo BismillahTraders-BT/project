@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/216cacf1ed7947f69546525f5f412ca9/artifacts
+end_time: 1706242969336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 216cacf1ed7947f69546525f5f412ca9
+run_name: rambunctious-ape-356
+run_uuid: 216cacf1ed7947f69546525f5f412ca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706242969189
+status: 3
+tags: []
+user_id: runner
