@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ef834d9e44624ba5b06ac5eeecb74fdf/artifacts
+end_time: 1706307473899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef834d9e44624ba5b06ac5eeecb74fdf
+run_name: salty-gull-290
+run_uuid: ef834d9e44624ba5b06ac5eeecb74fdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706307473813
+status: 3
+tags: []
+user_id: runner
