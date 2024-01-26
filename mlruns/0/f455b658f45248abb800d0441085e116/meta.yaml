@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f455b658f45248abb800d0441085e116/artifacts
+end_time: 1706239189029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f455b658f45248abb800d0441085e116
+run_name: clumsy-robin-877
+run_uuid: f455b658f45248abb800d0441085e116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706239188883
+status: 3
+tags: []
+user_id: runner
