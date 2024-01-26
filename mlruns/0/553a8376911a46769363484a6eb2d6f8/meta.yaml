@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/553a8376911a46769363484a6eb2d6f8/artifacts
+end_time: 1706246224292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 553a8376911a46769363484a6eb2d6f8
+run_name: powerful-grouse-348
+run_uuid: 553a8376911a46769363484a6eb2d6f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706246224206
+status: 3
+tags: []
+user_id: runner
