@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/99eedfb56efe4ab78b8b2e86f29949ef/artifacts
+end_time: 1706235927203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99eedfb56efe4ab78b8b2e86f29949ef
+run_name: bittersweet-croc-536
+run_uuid: 99eedfb56efe4ab78b8b2e86f29949ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706235927121
+status: 3
+tags: []
+user_id: runner
