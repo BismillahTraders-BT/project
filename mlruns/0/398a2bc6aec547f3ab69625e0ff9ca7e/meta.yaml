@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/398a2bc6aec547f3ab69625e0ff9ca7e/artifacts
+end_time: 1706303785258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 398a2bc6aec547f3ab69625e0ff9ca7e
+run_name: amazing-turtle-877
+run_uuid: 398a2bc6aec547f3ab69625e0ff9ca7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706303785171
+status: 3
+tags: []
+user_id: runner
