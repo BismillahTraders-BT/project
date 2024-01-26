@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5dc9becf98c3459c99788dc073a46c2c/artifacts
+end_time: 1706300296861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dc9becf98c3459c99788dc073a46c2c
+run_name: fortunate-dog-994
+run_uuid: 5dc9becf98c3459c99788dc073a46c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706300296774
+status: 3
+tags: []
+user_id: runner
