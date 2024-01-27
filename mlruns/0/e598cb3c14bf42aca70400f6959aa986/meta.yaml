@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e598cb3c14bf42aca70400f6959aa986/artifacts
+end_time: 1706332572179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e598cb3c14bf42aca70400f6959aa986
+run_name: treasured-auk-149
+run_uuid: e598cb3c14bf42aca70400f6959aa986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706332572026
+status: 3
+tags: []
+user_id: runner
