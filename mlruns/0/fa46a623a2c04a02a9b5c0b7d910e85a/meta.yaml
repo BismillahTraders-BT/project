@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/fa46a623a2c04a02a9b5c0b7d910e85a/artifacts
+end_time: 1706382896252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa46a623a2c04a02a9b5c0b7d910e85a
+run_name: bedecked-dove-404
+run_uuid: fa46a623a2c04a02a9b5c0b7d910e85a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706382896096
+status: 3
+tags: []
+user_id: runner
