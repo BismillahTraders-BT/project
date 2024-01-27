@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a543b2476f124b129fe2a4970dcf2cc5/artifacts
+end_time: 1706336445539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a543b2476f124b129fe2a4970dcf2cc5
+run_name: calm-stag-685
+run_uuid: a543b2476f124b129fe2a4970dcf2cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706336445383
+status: 3
+tags: []
+user_id: runner
