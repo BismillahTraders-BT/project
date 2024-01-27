@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dd0c868477c942c9a46c4847653cdd2a/artifacts
+end_time: 1706346957272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd0c868477c942c9a46c4847653cdd2a
+run_name: placid-hare-484
+run_uuid: dd0c868477c942c9a46c4847653cdd2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706346957118
+status: 3
+tags: []
+user_id: runner
