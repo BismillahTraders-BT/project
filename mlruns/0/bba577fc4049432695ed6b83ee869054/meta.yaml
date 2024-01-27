@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/bba577fc4049432695ed6b83ee869054/artifacts
+end_time: 1706368560445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bba577fc4049432695ed6b83ee869054
+run_name: rogue-frog-485
+run_uuid: bba577fc4049432695ed6b83ee869054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706368560288
+status: 3
+tags: []
+user_id: runner
