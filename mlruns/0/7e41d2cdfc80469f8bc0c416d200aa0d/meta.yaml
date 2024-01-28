@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/7e41d2cdfc80469f8bc0c416d200aa0d/artifacts
+end_time: 1706480195047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e41d2cdfc80469f8bc0c416d200aa0d
+run_name: handsome-carp-180
+run_uuid: 7e41d2cdfc80469f8bc0c416d200aa0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706480194882
+status: 3
+tags: []
+user_id: runner
