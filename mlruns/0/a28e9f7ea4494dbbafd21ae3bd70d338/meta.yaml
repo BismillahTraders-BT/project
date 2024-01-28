@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a28e9f7ea4494dbbafd21ae3bd70d338/artifacts
+end_time: 1706433468879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a28e9f7ea4494dbbafd21ae3bd70d338
+run_name: big-fawn-699
+run_uuid: a28e9f7ea4494dbbafd21ae3bd70d338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706433468721
+status: 3
+tags: []
+user_id: runner
