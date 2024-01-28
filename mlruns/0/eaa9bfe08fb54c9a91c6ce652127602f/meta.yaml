@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/eaa9bfe08fb54c9a91c6ce652127602f/artifacts
+end_time: 1706465978065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaa9bfe08fb54c9a91c6ce652127602f
+run_name: mysterious-gnat-422
+run_uuid: eaa9bfe08fb54c9a91c6ce652127602f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706465977974
+status: 3
+tags: []
+user_id: runner
