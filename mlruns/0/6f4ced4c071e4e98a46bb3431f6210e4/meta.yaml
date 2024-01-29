@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/6f4ced4c071e4e98a46bb3431f6210e4/artifacts
+end_time: 1706519896476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f4ced4c071e4e98a46bb3431f6210e4
+run_name: grandiose-jay-678
+run_uuid: 6f4ced4c071e4e98a46bb3431f6210e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706519896383
+status: 3
+tags: []
+user_id: runner
