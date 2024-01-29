@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/9a6d446d11c844f798935973c84b920d/artifacts
+end_time: 1706552507734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a6d446d11c844f798935973c84b920d
+run_name: nebulous-mole-801
+run_uuid: 9a6d446d11c844f798935973c84b920d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706552507637
+status: 3
+tags: []
+user_id: runner
