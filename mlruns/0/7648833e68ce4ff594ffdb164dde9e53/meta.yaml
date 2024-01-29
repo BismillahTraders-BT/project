@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/7648833e68ce4ff594ffdb164dde9e53/artifacts
+end_time: 1706490784052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7648833e68ce4ff594ffdb164dde9e53
+run_name: unleashed-seal-588
+run_uuid: 7648833e68ce4ff594ffdb164dde9e53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706490783889
+status: 3
+tags: []
+user_id: runner
