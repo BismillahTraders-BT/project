@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b23da6dc94cf464f8ecfb21e8c368e1e/artifacts
+end_time: 1706562975729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b23da6dc94cf464f8ecfb21e8c368e1e
+run_name: luxuriant-deer-673
+run_uuid: b23da6dc94cf464f8ecfb21e8c368e1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706562975560
+status: 3
+tags: []
+user_id: runner
