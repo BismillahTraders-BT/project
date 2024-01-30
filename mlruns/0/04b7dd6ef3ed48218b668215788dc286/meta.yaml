@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/04b7dd6ef3ed48218b668215788dc286/artifacts
+end_time: 1706617856393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04b7dd6ef3ed48218b668215788dc286
+run_name: unequaled-sow-251
+run_uuid: 04b7dd6ef3ed48218b668215788dc286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706617856296
+status: 3
+tags: []
+user_id: runner
