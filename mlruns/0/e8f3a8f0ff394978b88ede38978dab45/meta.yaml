@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e8f3a8f0ff394978b88ede38978dab45/artifacts
+end_time: 1706653011770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8f3a8f0ff394978b88ede38978dab45
+run_name: calm-lark-408
+run_uuid: e8f3a8f0ff394978b88ede38978dab45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706653011593
+status: 3
+tags: []
+user_id: runner
