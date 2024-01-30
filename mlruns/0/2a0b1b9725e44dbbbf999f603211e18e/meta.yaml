@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/2a0b1b9725e44dbbbf999f603211e18e/artifacts
+end_time: 1706638932957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a0b1b9725e44dbbbf999f603211e18e
+run_name: indecisive-deer-204
+run_uuid: 2a0b1b9725e44dbbbf999f603211e18e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706638932784
+status: 3
+tags: []
+user_id: runner
