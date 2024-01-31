@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/07eab532975c4e55b1847ad5eb57bd01/artifacts
+end_time: 1706735863947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07eab532975c4e55b1847ad5eb57bd01
+run_name: rebellious-sloth-15
+run_uuid: 07eab532975c4e55b1847ad5eb57bd01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706735863846
+status: 3
+tags: []
+user_id: runner
