@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/cda95aa76df047249fec507cbb79bd0d/artifacts
+end_time: 1706714286674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cda95aa76df047249fec507cbb79bd0d
+run_name: silent-shrike-867
+run_uuid: cda95aa76df047249fec507cbb79bd0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706714286496
+status: 3
+tags: []
+user_id: runner
