@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/769b801ac16b4081b807a2874c652c50/artifacts
+end_time: 1706674854729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 769b801ac16b4081b807a2874c652c50
+run_name: nervous-bug-63
+run_uuid: 769b801ac16b4081b807a2874c652c50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706674854556
+status: 3
+tags: []
+user_id: runner
