@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/80c3c833d06b4d28b5e0d2b7b9496eaa/artifacts
+end_time: 1706721328452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80c3c833d06b4d28b5e0d2b7b9496eaa
+run_name: delightful-quail-630
+run_uuid: 80c3c833d06b4d28b5e0d2b7b9496eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706721328271
+status: 3
+tags: []
+user_id: runner
