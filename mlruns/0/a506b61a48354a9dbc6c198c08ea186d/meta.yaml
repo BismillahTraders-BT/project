@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a506b61a48354a9dbc6c198c08ea186d/artifacts
+end_time: 1706804540590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a506b61a48354a9dbc6c198c08ea186d
+run_name: popular-hog-402
+run_uuid: a506b61a48354a9dbc6c198c08ea186d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706804540486
+status: 3
+tags: []
+user_id: runner
