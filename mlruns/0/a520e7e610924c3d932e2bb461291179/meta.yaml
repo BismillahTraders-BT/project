@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a520e7e610924c3d932e2bb461291179/artifacts
+end_time: 1706818717283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a520e7e610924c3d932e2bb461291179
+run_name: brawny-shad-498
+run_uuid: a520e7e610924c3d932e2bb461291179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706818717100
+status: 3
+tags: []
+user_id: runner
