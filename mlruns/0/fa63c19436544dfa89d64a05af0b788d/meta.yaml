@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/fa63c19436544dfa89d64a05af0b788d/artifacts
+end_time: 1706761348390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa63c19436544dfa89d64a05af0b788d
+run_name: persistent-bird-427
+run_uuid: fa63c19436544dfa89d64a05af0b788d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706761348210
+status: 3
+tags: []
+user_id: runner
