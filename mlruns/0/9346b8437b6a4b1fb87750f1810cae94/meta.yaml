@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/9346b8437b6a4b1fb87750f1810cae94/artifacts
+end_time: 1706829472662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9346b8437b6a4b1fb87750f1810cae94
+run_name: bemused-doe-791
+run_uuid: 9346b8437b6a4b1fb87750f1810cae94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706829472474
+status: 3
+tags: []
+user_id: runner
