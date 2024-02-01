@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/077fbb56f1c54e019bbd07bb91d83ac7/artifacts
+end_time: 1706764684589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 077fbb56f1c54e019bbd07bb91d83ac7
+run_name: selective-wren-926
+run_uuid: 077fbb56f1c54e019bbd07bb91d83ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706764684401
+status: 3
+tags: []
+user_id: runner
