@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e47a618cc2e94d68a3d9c71e623a743a/artifacts
+end_time: 1706822232967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e47a618cc2e94d68a3d9c71e623a743a
+run_name: fun-squid-835
+run_uuid: e47a618cc2e94d68a3d9c71e623a743a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706822232781
+status: 3
+tags: []
+user_id: runner
