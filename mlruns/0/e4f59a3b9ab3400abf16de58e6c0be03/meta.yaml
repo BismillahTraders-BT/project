@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e4f59a3b9ab3400abf16de58e6c0be03/artifacts
+end_time: 1706854939875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4f59a3b9ab3400abf16de58e6c0be03
+run_name: industrious-fly-837
+run_uuid: e4f59a3b9ab3400abf16de58e6c0be03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706854939772
+status: 3
+tags: []
+user_id: runner
