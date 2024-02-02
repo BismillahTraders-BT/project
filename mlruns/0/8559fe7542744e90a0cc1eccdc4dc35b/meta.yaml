@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/8559fe7542744e90a0cc1eccdc4dc35b/artifacts
+end_time: 1706894332571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8559fe7542744e90a0cc1eccdc4dc35b
+run_name: upset-croc-86
+run_uuid: 8559fe7542744e90a0cc1eccdc4dc35b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706894332381
+status: 3
+tags: []
+user_id: runner
