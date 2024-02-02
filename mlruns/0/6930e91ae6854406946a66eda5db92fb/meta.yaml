@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/6930e91ae6854406946a66eda5db92fb/artifacts
+end_time: 1706901399115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6930e91ae6854406946a66eda5db92fb
+run_name: rogue-kit-216
+run_uuid: 6930e91ae6854406946a66eda5db92fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706901398926
+status: 3
+tags: []
+user_id: runner
