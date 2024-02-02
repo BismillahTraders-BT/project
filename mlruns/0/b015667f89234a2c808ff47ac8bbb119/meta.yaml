@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b015667f89234a2c808ff47ac8bbb119/artifacts
+end_time: 1706890884472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b015667f89234a2c808ff47ac8bbb119
+run_name: fortunate-yak-261
+run_uuid: b015667f89234a2c808ff47ac8bbb119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706890884282
+status: 3
+tags: []
+user_id: runner
