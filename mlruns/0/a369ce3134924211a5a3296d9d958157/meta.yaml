@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a369ce3134924211a5a3296d9d958157/artifacts
+end_time: 1706840592879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a369ce3134924211a5a3296d9d958157
+run_name: treasured-gnu-515
+run_uuid: a369ce3134924211a5a3296d9d958157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706840592777
+status: 3
+tags: []
+user_id: runner
