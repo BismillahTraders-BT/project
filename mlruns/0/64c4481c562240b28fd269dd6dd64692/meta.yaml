@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/64c4481c562240b28fd269dd6dd64692/artifacts
+end_time: 1706858178264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64c4481c562240b28fd269dd6dd64692
+run_name: luminous-newt-302
+run_uuid: 64c4481c562240b28fd269dd6dd64692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706858178076
+status: 3
+tags: []
+user_id: runner
