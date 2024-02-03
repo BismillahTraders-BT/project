@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/8988bd78ef1c40aea9cf39a16ee5f506/artifacts
+end_time: 1706944589406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8988bd78ef1c40aea9cf39a16ee5f506
+run_name: welcoming-ape-718
+run_uuid: 8988bd78ef1c40aea9cf39a16ee5f506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706944589299
+status: 3
+tags: []
+user_id: runner
