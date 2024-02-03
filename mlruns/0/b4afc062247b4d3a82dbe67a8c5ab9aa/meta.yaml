@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b4afc062247b4d3a82dbe67a8c5ab9aa/artifacts
+end_time: 1706955443763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4afc062247b4d3a82dbe67a8c5ab9aa
+run_name: classy-midge-682
+run_uuid: b4afc062247b4d3a82dbe67a8c5ab9aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706955443654
+status: 3
+tags: []
+user_id: runner
