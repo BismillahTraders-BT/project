@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/6f4d3b416bd743d9b3904a1a7b693d31/artifacts
+end_time: 1706977330605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f4d3b416bd743d9b3904a1a7b693d31
+run_name: gifted-shoat-951
+run_uuid: 6f4d3b416bd743d9b3904a1a7b693d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706977330412
+status: 3
+tags: []
+user_id: runner
