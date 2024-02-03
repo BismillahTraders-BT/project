@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/73a1fd96c5a0481caa92e8cfe43a9db3/artifacts
+end_time: 1706969720465
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73a1fd96c5a0481caa92e8cfe43a9db3
+run_name: rare-crow-991
+run_uuid: 73a1fd96c5a0481caa92e8cfe43a9db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706969720270
+status: 3
+tags: []
+user_id: runner
