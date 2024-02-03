@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ff8fae25dd744a61be5a77434348db5d/artifacts
+end_time: 1706948470676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff8fae25dd744a61be5a77434348db5d
+run_name: stately-boar-505
+run_uuid: ff8fae25dd744a61be5a77434348db5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706948470484
+status: 3
+tags: []
+user_id: runner
