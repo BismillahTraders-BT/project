@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/da5d40a46aee4b639c91a3dea74e9637/artifacts
+end_time: 1706994904975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da5d40a46aee4b639c91a3dea74e9637
+run_name: nimble-lark-236
+run_uuid: da5d40a46aee4b639c91a3dea74e9637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706994904867
+status: 3
+tags: []
+user_id: runner
