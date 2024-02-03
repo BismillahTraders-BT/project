@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/9662200efb2741ed87bf16e80a761eb3/artifacts
+end_time: 1706930463986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9662200efb2741ed87bf16e80a761eb3
+run_name: defiant-shad-813
+run_uuid: 9662200efb2741ed87bf16e80a761eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706930463879
+status: 3
+tags: []
+user_id: runner
