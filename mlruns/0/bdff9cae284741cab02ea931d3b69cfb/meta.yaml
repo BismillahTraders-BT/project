@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/bdff9cae284741cab02ea931d3b69cfb/artifacts
+end_time: 1706991551442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdff9cae284741cab02ea931d3b69cfb
+run_name: bittersweet-grub-513
+run_uuid: bdff9cae284741cab02ea931d3b69cfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706991551332
+status: 3
+tags: []
+user_id: runner
