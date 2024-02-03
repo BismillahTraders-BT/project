@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/cff3e2b0946249ac888affbea16bebb6/artifacts
+end_time: 1706980573677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cff3e2b0946249ac888affbea16bebb6
+run_name: bald-frog-403
+run_uuid: cff3e2b0946249ac888affbea16bebb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706980573570
+status: 3
+tags: []
+user_id: runner
