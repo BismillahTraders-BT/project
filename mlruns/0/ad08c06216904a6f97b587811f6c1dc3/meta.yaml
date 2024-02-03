@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ad08c06216904a6f97b587811f6c1dc3/artifacts
+end_time: 1706922680956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad08c06216904a6f97b587811f6c1dc3
+run_name: respected-mole-962
+run_uuid: ad08c06216904a6f97b587811f6c1dc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706922680763
+status: 3
+tags: []
+user_id: runner
