@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a1343286899f4246b9f6cc4d797eee80/artifacts
+end_time: 1707013605077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1343286899f4246b9f6cc4d797eee80
+run_name: intrigued-bird-33
+run_uuid: a1343286899f4246b9f6cc4d797eee80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707013604879
+status: 3
+tags: []
+user_id: runner
