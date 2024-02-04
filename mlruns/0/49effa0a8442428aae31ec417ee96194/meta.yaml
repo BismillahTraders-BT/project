@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/49effa0a8442428aae31ec417ee96194/artifacts
+end_time: 1707081310752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49effa0a8442428aae31ec417ee96194
+run_name: stylish-cat-280
+run_uuid: 49effa0a8442428aae31ec417ee96194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707081310550
+status: 3
+tags: []
+user_id: runner
