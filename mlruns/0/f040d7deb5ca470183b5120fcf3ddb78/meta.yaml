@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f040d7deb5ca470183b5120fcf3ddb78/artifacts
+end_time: 1707027676655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f040d7deb5ca470183b5120fcf3ddb78
+run_name: traveling-crab-900
+run_uuid: f040d7deb5ca470183b5120fcf3ddb78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707027676545
+status: 3
+tags: []
+user_id: runner
