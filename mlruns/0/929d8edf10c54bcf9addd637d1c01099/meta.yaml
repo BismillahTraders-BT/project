@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/929d8edf10c54bcf9addd637d1c01099/artifacts
+end_time: 1707045283092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 929d8edf10c54bcf9addd637d1c01099
+run_name: exultant-roo-828
+run_uuid: 929d8edf10c54bcf9addd637d1c01099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707045282892
+status: 3
+tags: []
+user_id: runner
