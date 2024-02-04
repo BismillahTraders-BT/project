@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/2cef8551ab0443f58e0d01f28077e4e0/artifacts
+end_time: 1707077866660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cef8551ab0443f58e0d01f28077e4e0
+run_name: amusing-ox-994
+run_uuid: 2cef8551ab0443f58e0d01f28077e4e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707077866549
+status: 3
+tags: []
+user_id: runner
