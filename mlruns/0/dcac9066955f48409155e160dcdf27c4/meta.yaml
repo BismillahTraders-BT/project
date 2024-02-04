@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dcac9066955f48409155e160dcdf27c4/artifacts
+end_time: 1707052840029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcac9066955f48409155e160dcdf27c4
+run_name: capricious-bug-252
+run_uuid: dcac9066955f48409155e160dcdf27c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707052839831
+status: 3
+tags: []
+user_id: runner
