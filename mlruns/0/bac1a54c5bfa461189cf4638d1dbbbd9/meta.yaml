@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/bac1a54c5bfa461189cf4638d1dbbbd9/artifacts
+end_time: 1707023863622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bac1a54c5bfa461189cf4638d1dbbbd9
+run_name: ambitious-goose-544
+run_uuid: bac1a54c5bfa461189cf4638d1dbbbd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707023863424
+status: 3
+tags: []
+user_id: runner
