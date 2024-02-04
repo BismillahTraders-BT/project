@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/326f128e897743deab102c72002131fa/artifacts
+end_time: 1707066948329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 326f128e897743deab102c72002131fa
+run_name: rumbling-shrimp-470
+run_uuid: 326f128e897743deab102c72002131fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707066948129
+status: 3
+tags: []
+user_id: runner
