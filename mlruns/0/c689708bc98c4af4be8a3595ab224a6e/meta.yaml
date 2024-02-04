@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c689708bc98c4af4be8a3595ab224a6e/artifacts
+end_time: 1707085016727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c689708bc98c4af4be8a3595ab224a6e
+run_name: vaunted-quail-36
+run_uuid: c689708bc98c4af4be8a3595ab224a6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707085016524
+status: 3
+tags: []
+user_id: runner
