@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0132180454f44782a533684a709c461c/artifacts
+end_time: 1707031104421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0132180454f44782a533684a709c461c
+run_name: honorable-rook-903
+run_uuid: 0132180454f44782a533684a709c461c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707031104225
+status: 3
+tags: []
+user_id: runner
