@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a64ce952965d46b49169786c5b339695/artifacts
+end_time: 1707016785267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a64ce952965d46b49169786c5b339695
+run_name: debonair-mule-173
+run_uuid: a64ce952965d46b49169786c5b339695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707016785157
+status: 3
+tags: []
+user_id: runner
