@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/6383ae0994d64d4b8e0fa4d5db4f7d2f/artifacts
+end_time: 1707056123369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6383ae0994d64d4b8e0fa4d5db4f7d2f
+run_name: unequaled-rook-214
+run_uuid: 6383ae0994d64d4b8e0fa4d5db4f7d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707056123168
+status: 3
+tags: []
+user_id: runner
