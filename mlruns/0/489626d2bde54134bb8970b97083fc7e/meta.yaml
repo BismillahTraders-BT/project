@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/489626d2bde54134bb8970b97083fc7e/artifacts
+end_time: 1707146296609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 489626d2bde54134bb8970b97083fc7e
+run_name: unequaled-newt-905
+run_uuid: 489626d2bde54134bb8970b97083fc7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707146296404
+status: 3
+tags: []
+user_id: runner
