@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e4d2453abb5e4940addb17f31407a04d/artifacts
+end_time: 1707095704940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4d2453abb5e4940addb17f31407a04d
+run_name: defiant-loon-78
+run_uuid: e4d2453abb5e4940addb17f31407a04d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707095704829
+status: 3
+tags: []
+user_id: runner
