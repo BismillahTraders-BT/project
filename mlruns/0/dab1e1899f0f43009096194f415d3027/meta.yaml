@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dab1e1899f0f43009096194f415d3027/artifacts
+end_time: 1707114184975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dab1e1899f0f43009096194f415d3027
+run_name: valuable-koi-186
+run_uuid: dab1e1899f0f43009096194f415d3027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707114184864
+status: 3
+tags: []
+user_id: runner
