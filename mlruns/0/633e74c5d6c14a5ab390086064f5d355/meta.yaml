@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/633e74c5d6c14a5ab390086064f5d355/artifacts
+end_time: 1707100219086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 633e74c5d6c14a5ab390086064f5d355
+run_name: beautiful-toad-23
+run_uuid: 633e74c5d6c14a5ab390086064f5d355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707100218883
+status: 3
+tags: []
+user_id: runner
