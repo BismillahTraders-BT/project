@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ae3cde5561be45c98bd6225d17f31d1a/artifacts
+end_time: 1707160599877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae3cde5561be45c98bd6225d17f31d1a
+run_name: debonair-wasp-378
+run_uuid: ae3cde5561be45c98bd6225d17f31d1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707160599670
+status: 3
+tags: []
+user_id: runner
