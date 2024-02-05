@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/4dcbe7e298384126a92ada3b03d31625/artifacts
+end_time: 1707175149990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dcbe7e298384126a92ada3b03d31625
+run_name: selective-chimp-228
+run_uuid: 4dcbe7e298384126a92ada3b03d31625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707175149874
+status: 3
+tags: []
+user_id: runner
