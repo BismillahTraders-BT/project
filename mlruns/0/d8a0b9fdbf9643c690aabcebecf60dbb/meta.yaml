@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d8a0b9fdbf9643c690aabcebecf60dbb/artifacts
+end_time: 1707103196971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8a0b9fdbf9643c690aabcebecf60dbb
+run_name: unequaled-frog-106
+run_uuid: d8a0b9fdbf9643c690aabcebecf60dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707103196769
+status: 3
+tags: []
+user_id: runner
