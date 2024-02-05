@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/73267e0b62f64fdfbac5e0957b03fea0/artifacts
+end_time: 1707164394366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73267e0b62f64fdfbac5e0957b03fea0
+run_name: bouncy-bear-588
+run_uuid: 73267e0b62f64fdfbac5e0957b03fea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707164394253
+status: 3
+tags: []
+user_id: runner
