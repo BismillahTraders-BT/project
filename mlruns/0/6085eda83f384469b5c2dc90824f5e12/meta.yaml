@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/6085eda83f384469b5c2dc90824f5e12/artifacts
+end_time: 1707181956376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6085eda83f384469b5c2dc90824f5e12
+run_name: blushing-hound-368
+run_uuid: 6085eda83f384469b5c2dc90824f5e12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707181956261
+status: 3
+tags: []
+user_id: runner
