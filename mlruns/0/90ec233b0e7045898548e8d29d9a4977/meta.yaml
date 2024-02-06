@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/90ec233b0e7045898548e8d29d9a4977/artifacts
+end_time: 1707229045273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90ec233b0e7045898548e8d29d9a4977
+run_name: gentle-vole-836
+run_uuid: 90ec233b0e7045898548e8d29d9a4977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707229045065
+status: 3
+tags: []
+user_id: runner
