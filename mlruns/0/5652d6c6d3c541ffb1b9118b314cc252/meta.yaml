@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5652d6c6d3c541ffb1b9118b314cc252/artifacts
+end_time: 1707239778298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5652d6c6d3c541ffb1b9118b314cc252
+run_name: beautiful-horse-439
+run_uuid: 5652d6c6d3c541ffb1b9118b314cc252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707239778180
+status: 3
+tags: []
+user_id: runner
