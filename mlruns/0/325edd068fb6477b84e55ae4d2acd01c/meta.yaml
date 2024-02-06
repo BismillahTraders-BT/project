@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/325edd068fb6477b84e55ae4d2acd01c/artifacts
+end_time: 1707243622567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 325edd068fb6477b84e55ae4d2acd01c
+run_name: lyrical-yak-718
+run_uuid: 325edd068fb6477b84e55ae4d2acd01c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707243622358
+status: 3
+tags: []
+user_id: runner
