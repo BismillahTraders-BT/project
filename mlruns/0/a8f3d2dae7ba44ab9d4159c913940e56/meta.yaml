@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a8f3d2dae7ba44ab9d4159c913940e56/artifacts
+end_time: 1707250728759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8f3d2dae7ba44ab9d4159c913940e56
+run_name: unequaled-yak-125
+run_uuid: a8f3d2dae7ba44ab9d4159c913940e56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707250728641
+status: 3
+tags: []
+user_id: runner
