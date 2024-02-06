@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/3f1161c0f3d14fcfb1f4332da496f62b/artifacts
+end_time: 1707203827269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f1161c0f3d14fcfb1f4332da496f62b
+run_name: nervous-ant-282
+run_uuid: 3f1161c0f3d14fcfb1f4332da496f62b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707203827059
+status: 3
+tags: []
+user_id: runner
