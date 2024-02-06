@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/73b57bba4a0b4e17bbd27ba10a536c7a/artifacts
+end_time: 1707189589272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73b57bba4a0b4e17bbd27ba10a536c7a
+run_name: delicate-cod-92
+run_uuid: 73b57bba4a0b4e17bbd27ba10a536c7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707189589065
+status: 3
+tags: []
+user_id: runner
