@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f8ef0b55887f4c0b91fe1fa869c12da8/artifacts
+end_time: 1707261489709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8ef0b55887f4c0b91fe1fa869c12da8
+run_name: painted-doe-78
+run_uuid: f8ef0b55887f4c0b91fe1fa869c12da8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707261489497
+status: 3
+tags: []
+user_id: runner
