@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/3562d8e1074e4f95a2b4bc4134c43364/artifacts
+end_time: 1707196663798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3562d8e1074e4f95a2b4bc4134c43364
+run_name: languid-zebra-309
+run_uuid: 3562d8e1074e4f95a2b4bc4134c43364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707196663587
+status: 3
+tags: []
+user_id: runner
