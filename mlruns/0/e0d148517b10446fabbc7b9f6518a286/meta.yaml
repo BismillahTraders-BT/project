@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e0d148517b10446fabbc7b9f6518a286/artifacts
+end_time: 1707309079567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0d148517b10446fabbc7b9f6518a286
+run_name: silent-croc-8
+run_uuid: e0d148517b10446fabbc7b9f6518a286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707309079448
+status: 3
+tags: []
+user_id: runner
