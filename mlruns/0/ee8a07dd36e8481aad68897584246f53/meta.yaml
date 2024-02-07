@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ee8a07dd36e8481aad68897584246f53/artifacts
+end_time: 1707333305145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee8a07dd36e8481aad68897584246f53
+run_name: loud-grub-836
+run_uuid: ee8a07dd36e8481aad68897584246f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707333304930
+status: 3
+tags: []
+user_id: runner
