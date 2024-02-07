@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dc9230aa00364c2fa0d74b61506bfa23/artifacts
+end_time: 1707279700255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc9230aa00364c2fa0d74b61506bfa23
+run_name: placid-gnu-623
+run_uuid: dc9230aa00364c2fa0d74b61506bfa23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707279700040
+status: 3
+tags: []
+user_id: runner
