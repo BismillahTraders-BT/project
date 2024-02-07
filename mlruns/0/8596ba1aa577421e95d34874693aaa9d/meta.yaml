@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/8596ba1aa577421e95d34874693aaa9d/artifacts
+end_time: 1707297534553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8596ba1aa577421e95d34874693aaa9d
+run_name: wistful-hen-982
+run_uuid: 8596ba1aa577421e95d34874693aaa9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707297534335
+status: 3
+tags: []
+user_id: runner
