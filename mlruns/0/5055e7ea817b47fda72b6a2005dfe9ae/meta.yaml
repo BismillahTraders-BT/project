@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5055e7ea817b47fda72b6a2005dfe9ae/artifacts
+end_time: 1707330140495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5055e7ea817b47fda72b6a2005dfe9ae
+run_name: flawless-vole-435
+run_uuid: 5055e7ea817b47fda72b6a2005dfe9ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707330140279
+status: 3
+tags: []
+user_id: runner
