@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/2e874f4ea2f54d62af08edcd97267478/artifacts
+end_time: 1707311968596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e874f4ea2f54d62af08edcd97267478
+run_name: melodic-worm-176
+run_uuid: 2e874f4ea2f54d62af08edcd97267478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707311968476
+status: 3
+tags: []
+user_id: runner
