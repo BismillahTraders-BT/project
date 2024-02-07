@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b93d1e264d4346548064fdb41bd923fe/artifacts
+end_time: 1707268242557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b93d1e264d4346548064fdb41bd923fe
+run_name: redolent-snake-39
+run_uuid: b93d1e264d4346548064fdb41bd923fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707268242439
+status: 3
+tags: []
+user_id: runner
