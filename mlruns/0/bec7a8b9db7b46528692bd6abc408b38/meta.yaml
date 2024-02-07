@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/bec7a8b9db7b46528692bd6abc408b38/artifacts
+end_time: 1707323044726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bec7a8b9db7b46528692bd6abc408b38
+run_name: abrasive-snake-650
+run_uuid: bec7a8b9db7b46528692bd6abc408b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707323044606
+status: 3
+tags: []
+user_id: runner
