@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a23c52af1a704963867ac4f3840bdf58/artifacts
+end_time: 1707286961094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a23c52af1a704963867ac4f3840bdf58
+run_name: honorable-elk-14
+run_uuid: a23c52af1a704963867ac4f3840bdf58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707286960880
+status: 3
+tags: []
+user_id: runner
