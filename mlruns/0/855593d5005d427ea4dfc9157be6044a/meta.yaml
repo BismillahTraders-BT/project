@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/855593d5005d427ea4dfc9157be6044a/artifacts
+end_time: 1707326213229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 855593d5005d427ea4dfc9157be6044a
+run_name: able-doe-520
+run_uuid: 855593d5005d427ea4dfc9157be6044a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707326213110
+status: 3
+tags: []
+user_id: runner
