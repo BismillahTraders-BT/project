@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/38297ad6edc349959f7bd10cf86843f8/artifacts
+end_time: 1707283088335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38297ad6edc349959f7bd10cf86843f8
+run_name: rare-elk-78
+run_uuid: 38297ad6edc349959f7bd10cf86843f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707283088216
+status: 3
+tags: []
+user_id: runner
