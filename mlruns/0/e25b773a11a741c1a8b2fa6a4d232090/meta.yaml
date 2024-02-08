@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e25b773a11a741c1a8b2fa6a4d232090/artifacts
+end_time: 1707405553962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e25b773a11a741c1a8b2fa6a4d232090
+run_name: auspicious-moose-963
+run_uuid: e25b773a11a741c1a8b2fa6a4d232090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707405553743
+status: 3
+tags: []
+user_id: runner
