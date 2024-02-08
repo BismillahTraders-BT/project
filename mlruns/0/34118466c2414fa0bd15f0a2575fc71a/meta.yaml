@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/34118466c2414fa0bd15f0a2575fc71a/artifacts
+end_time: 1707416549288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34118466c2414fa0bd15f0a2575fc71a
+run_name: exultant-steed-270
+run_uuid: 34118466c2414fa0bd15f0a2575fc71a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707416549164
+status: 3
+tags: []
+user_id: runner
