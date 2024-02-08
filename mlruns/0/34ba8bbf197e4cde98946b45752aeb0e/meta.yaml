@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/34ba8bbf197e4cde98946b45752aeb0e/artifacts
+end_time: 1707366112126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34ba8bbf197e4cde98946b45752aeb0e
+run_name: amusing-eel-49
+run_uuid: 34ba8bbf197e4cde98946b45752aeb0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707366111909
+status: 3
+tags: []
+user_id: runner
