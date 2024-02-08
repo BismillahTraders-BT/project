@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d6a5f5c4cac84761bb73f2fce1269508/artifacts
+end_time: 1707401787253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6a5f5c4cac84761bb73f2fce1269508
+run_name: judicious-midge-903
+run_uuid: d6a5f5c4cac84761bb73f2fce1269508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707401787034
+status: 3
+tags: []
+user_id: runner
