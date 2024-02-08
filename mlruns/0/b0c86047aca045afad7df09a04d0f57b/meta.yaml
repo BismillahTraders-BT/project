@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b0c86047aca045afad7df09a04d0f57b/artifacts
+end_time: 1707412663478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0c86047aca045afad7df09a04d0f57b
+run_name: trusting-carp-709
+run_uuid: b0c86047aca045afad7df09a04d0f57b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707412663352
+status: 3
+tags: []
+user_id: runner
