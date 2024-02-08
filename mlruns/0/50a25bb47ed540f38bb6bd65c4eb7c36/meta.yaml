@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/50a25bb47ed540f38bb6bd65c4eb7c36/artifacts
+end_time: 1707373424968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50a25bb47ed540f38bb6bd65c4eb7c36
+run_name: bedecked-grub-777
+run_uuid: 50a25bb47ed540f38bb6bd65c4eb7c36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707373424847
+status: 3
+tags: []
+user_id: runner
