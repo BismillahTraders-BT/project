@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d147a0d08540435080702eb2ff1f1735/artifacts
+end_time: 1707419743527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d147a0d08540435080702eb2ff1f1735
+run_name: ambitious-rat-468
+run_uuid: d147a0d08540435080702eb2ff1f1735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707419743304
+status: 3
+tags: []
+user_id: runner
