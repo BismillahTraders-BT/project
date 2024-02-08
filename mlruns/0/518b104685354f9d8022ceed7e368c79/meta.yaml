@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/518b104685354f9d8022ceed7e368c79/artifacts
+end_time: 1707434360309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 518b104685354f9d8022ceed7e368c79
+run_name: charming-shrike-664
+run_uuid: 518b104685354f9d8022ceed7e368c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707434360185
+status: 3
+tags: []
+user_id: runner
