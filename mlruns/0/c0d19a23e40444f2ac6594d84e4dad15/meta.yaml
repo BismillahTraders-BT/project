@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c0d19a23e40444f2ac6594d84e4dad15/artifacts
+end_time: 1707362393487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0d19a23e40444f2ac6594d84e4dad15
+run_name: righteous-mare-564
+run_uuid: c0d19a23e40444f2ac6594d84e4dad15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707362393271
+status: 3
+tags: []
+user_id: runner
