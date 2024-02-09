@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/25304dac6a724d2ebbc42ea475962ecc/artifacts
+end_time: 1707495740951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25304dac6a724d2ebbc42ea475962ecc
+run_name: upset-pug-521
+run_uuid: 25304dac6a724d2ebbc42ea475962ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707495740727
+status: 3
+tags: []
+user_id: runner
