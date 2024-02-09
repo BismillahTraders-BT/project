@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/78003dcc2e3846c6b67fdcfd070d3c47/artifacts
+end_time: 1707470343480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78003dcc2e3846c6b67fdcfd070d3c47
+run_name: fun-bird-1000
+run_uuid: 78003dcc2e3846c6b67fdcfd070d3c47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707470343256
+status: 3
+tags: []
+user_id: runner
