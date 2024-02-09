@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5098ca1d28bb451b985206c649eb1641/artifacts
+end_time: 1707488191091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5098ca1d28bb451b985206c649eb1641
+run_name: calm-robin-39
+run_uuid: 5098ca1d28bb451b985206c649eb1641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707488190968
+status: 3
+tags: []
+user_id: runner
