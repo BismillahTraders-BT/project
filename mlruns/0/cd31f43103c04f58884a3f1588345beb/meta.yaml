@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/cd31f43103c04f58884a3f1588345beb/artifacts
+end_time: 1707455821203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd31f43103c04f58884a3f1588345beb
+run_name: suave-grub-404
+run_uuid: cd31f43103c04f58884a3f1588345beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707455820975
+status: 3
+tags: []
+user_id: runner
