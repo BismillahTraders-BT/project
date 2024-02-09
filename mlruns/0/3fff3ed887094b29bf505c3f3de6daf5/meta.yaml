@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/3fff3ed887094b29bf505c3f3de6daf5/artifacts
+end_time: 1707448749066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fff3ed887094b29bf505c3f3de6daf5
+run_name: angry-conch-477
+run_uuid: 3fff3ed887094b29bf505c3f3de6daf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707448748942
+status: 3
+tags: []
+user_id: runner
