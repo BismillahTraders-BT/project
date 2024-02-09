@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/1980852e075a4b90b5100107c4de2a72/artifacts
+end_time: 1707517146005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1980852e075a4b90b5100107c4de2a72
+run_name: dashing-colt-258
+run_uuid: 1980852e075a4b90b5100107c4de2a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707517145777
+status: 3
+tags: []
+user_id: runner
