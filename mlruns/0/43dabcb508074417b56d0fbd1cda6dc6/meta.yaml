@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/43dabcb508074417b56d0fbd1cda6dc6/artifacts
+end_time: 1707542199029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43dabcb508074417b56d0fbd1cda6dc6
+run_name: omniscient-ray-618
+run_uuid: 43dabcb508074417b56d0fbd1cda6dc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707542198799
+status: 3
+tags: []
+user_id: runner
