@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b33a030f08524c458f7d553563ed3e26/artifacts
+end_time: 1707596270444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b33a030f08524c458f7d553563ed3e26
+run_name: honorable-ray-472
+run_uuid: b33a030f08524c458f7d553563ed3e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707596270316
+status: 3
+tags: []
+user_id: runner
