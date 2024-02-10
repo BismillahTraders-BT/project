@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/cc5a9f327989499e987ad0b6ddf6fbfb/artifacts
+end_time: 1707574593363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc5a9f327989499e987ad0b6ddf6fbfb
+run_name: chill-ox-652
+run_uuid: cc5a9f327989499e987ad0b6ddf6fbfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707574593137
+status: 3
+tags: []
+user_id: runner
