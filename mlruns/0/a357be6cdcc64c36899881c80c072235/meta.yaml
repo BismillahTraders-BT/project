@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a357be6cdcc64c36899881c80c072235/artifacts
+end_time: 1707568220477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a357be6cdcc64c36899881c80c072235
+run_name: silent-roo-146
+run_uuid: a357be6cdcc64c36899881c80c072235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707568220247
+status: 3
+tags: []
+user_id: runner
