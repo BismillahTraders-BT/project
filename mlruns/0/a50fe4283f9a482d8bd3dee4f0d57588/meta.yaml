@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a50fe4283f9a482d8bd3dee4f0d57588/artifacts
+end_time: 1707668518845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a50fe4283f9a482d8bd3dee4f0d57588
+run_name: indecisive-wolf-724
+run_uuid: a50fe4283f9a482d8bd3dee4f0d57588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707668518610
+status: 3
+tags: []
+user_id: runner
