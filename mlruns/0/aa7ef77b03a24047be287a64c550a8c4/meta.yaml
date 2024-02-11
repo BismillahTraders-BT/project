@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/aa7ef77b03a24047be287a64c550a8c4/artifacts
+end_time: 1707660998601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa7ef77b03a24047be287a64c550a8c4
+run_name: upset-swan-813
+run_uuid: aa7ef77b03a24047be287a64c550a8c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707660998471
+status: 3
+tags: []
+user_id: runner
