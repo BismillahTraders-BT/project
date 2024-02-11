@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/222d323e6ec448c69a16208fd2074443/artifacts
+end_time: 1707643007618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 222d323e6ec448c69a16208fd2074443
+run_name: masked-boar-310
+run_uuid: 222d323e6ec448c69a16208fd2074443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707643007383
+status: 3
+tags: []
+user_id: runner
