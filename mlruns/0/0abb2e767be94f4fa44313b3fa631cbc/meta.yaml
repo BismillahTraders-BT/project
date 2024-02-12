@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0abb2e767be94f4fa44313b3fa631cbc/artifacts
+end_time: 1707762112511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0abb2e767be94f4fa44313b3fa631cbc
+run_name: beautiful-grub-697
+run_uuid: 0abb2e767be94f4fa44313b3fa631cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707762112377
+status: 3
+tags: []
+user_id: runner
