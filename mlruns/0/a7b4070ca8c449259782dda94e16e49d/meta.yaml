@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a7b4070ca8c449259782dda94e16e49d/artifacts
+end_time: 1707733288394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7b4070ca8c449259782dda94e16e49d
+run_name: luminous-fowl-79
+run_uuid: a7b4070ca8c449259782dda94e16e49d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707733288262
+status: 3
+tags: []
+user_id: runner
