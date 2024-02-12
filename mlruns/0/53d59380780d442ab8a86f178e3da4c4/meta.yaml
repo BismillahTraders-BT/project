@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/53d59380780d442ab8a86f178e3da4c4/artifacts
+end_time: 1707755027523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53d59380780d442ab8a86f178e3da4c4
+run_name: grandiose-mouse-661
+run_uuid: 53d59380780d442ab8a86f178e3da4c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707755027391
+status: 3
+tags: []
+user_id: runner
