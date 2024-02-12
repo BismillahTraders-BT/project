@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/7eb077f819f54246be73b55cb19a0aa0/artifacts
+end_time: 1707729575518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7eb077f819f54246be73b55cb19a0aa0
+run_name: crawling-pug-60
+run_uuid: 7eb077f819f54246be73b55cb19a0aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707729575387
+status: 3
+tags: []
+user_id: runner
