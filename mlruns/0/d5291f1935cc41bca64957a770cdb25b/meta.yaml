@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d5291f1935cc41bca64957a770cdb25b/artifacts
+end_time: 1707718994796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5291f1935cc41bca64957a770cdb25b
+run_name: enchanting-mare-805
+run_uuid: d5291f1935cc41bca64957a770cdb25b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707718994557
+status: 3
+tags: []
+user_id: runner
