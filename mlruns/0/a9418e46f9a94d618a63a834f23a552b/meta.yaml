@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a9418e46f9a94d618a63a834f23a552b/artifacts
+end_time: 1707765496565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9418e46f9a94d618a63a834f23a552b
+run_name: painted-mole-65
+run_uuid: a9418e46f9a94d618a63a834f23a552b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707765496432
+status: 3
+tags: []
+user_id: runner
