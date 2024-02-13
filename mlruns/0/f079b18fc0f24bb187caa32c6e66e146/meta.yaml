@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f079b18fc0f24bb187caa32c6e66e146/artifacts
+end_time: 1707791025855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f079b18fc0f24bb187caa32c6e66e146
+run_name: serious-sow-937
+run_uuid: f079b18fc0f24bb187caa32c6e66e146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707791025721
+status: 3
+tags: []
+user_id: runner
