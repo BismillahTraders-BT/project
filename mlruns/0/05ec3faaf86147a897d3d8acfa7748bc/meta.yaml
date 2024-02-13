@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/05ec3faaf86147a897d3d8acfa7748bc/artifacts
+end_time: 1707837545988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05ec3faaf86147a897d3d8acfa7748bc
+run_name: dapper-colt-913
+run_uuid: 05ec3faaf86147a897d3d8acfa7748bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707837545742
+status: 3
+tags: []
+user_id: runner
