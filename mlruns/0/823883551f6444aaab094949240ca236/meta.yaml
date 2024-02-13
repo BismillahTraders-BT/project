@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/823883551f6444aaab094949240ca236/artifacts
+end_time: 1707830473637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 823883551f6444aaab094949240ca236
+run_name: efficient-sheep-104
+run_uuid: 823883551f6444aaab094949240ca236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707830473391
+status: 3
+tags: []
+user_id: runner
