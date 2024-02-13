@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/9619dd3cedb84019a54814a52c079401/artifacts
+end_time: 1707801487162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9619dd3cedb84019a54814a52c079401
+run_name: hilarious-mole-113
+run_uuid: 9619dd3cedb84019a54814a52c079401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707801487026
+status: 3
+tags: []
+user_id: runner
