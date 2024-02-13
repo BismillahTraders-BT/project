@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b10daacb444a45cf81ff4b057f02bcfe/artifacts
+end_time: 1707808668217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b10daacb444a45cf81ff4b057f02bcfe
+run_name: bright-donkey-426
+run_uuid: b10daacb444a45cf81ff4b057f02bcfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707808667973
+status: 3
+tags: []
+user_id: runner
