@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/10d84182303640d9b89eceb7b3b0e64e/artifacts
+end_time: 1707786788453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10d84182303640d9b89eceb7b3b0e64e
+run_name: bright-grouse-1000
+run_uuid: 10d84182303640d9b89eceb7b3b0e64e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707786788319
+status: 3
+tags: []
+user_id: runner
