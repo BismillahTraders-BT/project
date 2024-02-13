@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5e2707346b9841c8874baadd65c9f3e1/artifacts
+end_time: 1707866332161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e2707346b9841c8874baadd65c9f3e1
+run_name: grandiose-snipe-87
+run_uuid: 5e2707346b9841c8874baadd65c9f3e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707866331910
+status: 3
+tags: []
+user_id: runner
