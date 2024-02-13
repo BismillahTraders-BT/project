@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c213ae1a4ffb4d2c8eec9e5ba49e677b/artifacts
+end_time: 1707855681143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c213ae1a4ffb4d2c8eec9e5ba49e677b
+run_name: beautiful-jay-400
+run_uuid: c213ae1a4ffb4d2c8eec9e5ba49e677b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707855681007
+status: 3
+tags: []
+user_id: runner
