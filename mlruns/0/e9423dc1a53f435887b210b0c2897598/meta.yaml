@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e9423dc1a53f435887b210b0c2897598/artifacts
+end_time: 1707798062838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9423dc1a53f435887b210b0c2897598
+run_name: polite-owl-399
+run_uuid: e9423dc1a53f435887b210b0c2897598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707798062703
+status: 3
+tags: []
+user_id: runner
