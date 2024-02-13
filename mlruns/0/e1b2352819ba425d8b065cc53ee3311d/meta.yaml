@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e1b2352819ba425d8b065cc53ee3311d/artifacts
+end_time: 1707862786462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1b2352819ba425d8b065cc53ee3311d
+run_name: blushing-wolf-115
+run_uuid: e1b2352819ba425d8b065cc53ee3311d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707862786326
+status: 3
+tags: []
+user_id: runner
