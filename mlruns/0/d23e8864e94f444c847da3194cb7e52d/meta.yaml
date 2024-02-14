@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d23e8864e94f444c847da3194cb7e52d/artifacts
+end_time: 1707923934785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d23e8864e94f444c847da3194cb7e52d
+run_name: resilient-sow-287
+run_uuid: d23e8864e94f444c847da3194cb7e52d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707923934535
+status: 3
+tags: []
+user_id: runner
