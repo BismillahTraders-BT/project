@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b84ebaafc88c4932a609d235849c7894/artifacts
+end_time: 1707945464581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b84ebaafc88c4932a609d235849c7894
+run_name: clean-bug-717
+run_uuid: b84ebaafc88c4932a609d235849c7894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707945464328
+status: 3
+tags: []
+user_id: runner
