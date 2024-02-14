@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/51c69870c7a645288e77af8430e6b3b5/artifacts
+end_time: 1707884530946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51c69870c7a645288e77af8430e6b3b5
+run_name: welcoming-wren-743
+run_uuid: 51c69870c7a645288e77af8430e6b3b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707884530700
+status: 3
+tags: []
+user_id: runner
