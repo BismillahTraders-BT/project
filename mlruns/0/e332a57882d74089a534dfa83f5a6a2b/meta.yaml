@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e332a57882d74089a534dfa83f5a6a2b/artifacts
+end_time: 1707902344987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e332a57882d74089a534dfa83f5a6a2b
+run_name: grandiose-vole-706
+run_uuid: e332a57882d74089a534dfa83f5a6a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707902344738
+status: 3
+tags: []
+user_id: runner
