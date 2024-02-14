@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/8735c0c9a4c3497b9ff9fc6291019217/artifacts
+end_time: 1707891826390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8735c0c9a4c3497b9ff9fc6291019217
+run_name: sedate-gnu-702
+run_uuid: 8735c0c9a4c3497b9ff9fc6291019217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707891826141
+status: 3
+tags: []
+user_id: runner
