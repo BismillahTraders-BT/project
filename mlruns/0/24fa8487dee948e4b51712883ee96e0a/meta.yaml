@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/24fa8487dee948e4b51712883ee96e0a/artifacts
+end_time: 1707931020025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24fa8487dee948e4b51712883ee96e0a
+run_name: indecisive-snipe-411
+run_uuid: 24fa8487dee948e4b51712883ee96e0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707931019886
+status: 3
+tags: []
+user_id: runner
