@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/2eab968613d84e649d278013fb82391c/artifacts
+end_time: 1707941941910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2eab968613d84e649d278013fb82391c
+run_name: dashing-whale-648
+run_uuid: 2eab968613d84e649d278013fb82391c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707941941771
+status: 3
+tags: []
+user_id: runner
