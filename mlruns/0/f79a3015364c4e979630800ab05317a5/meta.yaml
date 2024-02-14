@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f79a3015364c4e979630800ab05317a5/artifacts
+end_time: 1707905986307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f79a3015364c4e979630800ab05317a5
+run_name: clumsy-moose-309
+run_uuid: f79a3015364c4e979630800ab05317a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707905986171
+status: 3
+tags: []
+user_id: runner
