@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d4da9f7c773949bd9972af051313d7c3/artifacts
+end_time: 1707898987097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4da9f7c773949bd9972af051313d7c3
+run_name: defiant-doe-363
+run_uuid: d4da9f7c773949bd9972af051313d7c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707898986847
+status: 3
+tags: []
+user_id: runner
