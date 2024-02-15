@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/911e06e66e3e49d7a9ec54ceecfcc729/artifacts
+end_time: 1708014163916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 911e06e66e3e49d7a9ec54ceecfcc729
+run_name: stylish-foal-549
+run_uuid: 911e06e66e3e49d7a9ec54ceecfcc729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708014163777
+status: 3
+tags: []
+user_id: runner
