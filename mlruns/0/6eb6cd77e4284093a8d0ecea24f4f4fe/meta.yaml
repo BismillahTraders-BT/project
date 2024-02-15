@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/6eb6cd77e4284093a8d0ecea24f4f4fe/artifacts
+end_time: 1707967310096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6eb6cd77e4284093a8d0ecea24f4f4fe
+run_name: agreeable-toad-779
+run_uuid: 6eb6cd77e4284093a8d0ecea24f4f4fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707967309840
+status: 3
+tags: []
+user_id: runner
