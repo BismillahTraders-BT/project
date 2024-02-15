@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c4eac08b596245e4ae364d972950d1d7/artifacts
+end_time: 1707985352559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4eac08b596245e4ae364d972950d1d7
+run_name: bouncy-hog-120
+run_uuid: c4eac08b596245e4ae364d972950d1d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707985352301
+status: 3
+tags: []
+user_id: runner
