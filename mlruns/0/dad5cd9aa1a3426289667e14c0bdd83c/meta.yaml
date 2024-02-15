@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dad5cd9aa1a3426289667e14c0bdd83c/artifacts
+end_time: 1707974332520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dad5cd9aa1a3426289667e14c0bdd83c
+run_name: smiling-mink-938
+run_uuid: dad5cd9aa1a3426289667e14c0bdd83c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707974332265
+status: 3
+tags: []
+user_id: runner
