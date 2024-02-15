@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e07bfecc32174392b490fc22fd421594/artifacts
+end_time: 1708031855007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e07bfecc32174392b490fc22fd421594
+run_name: dazzling-snail-718
+run_uuid: e07bfecc32174392b490fc22fd421594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708031854749
+status: 3
+tags: []
+user_id: runner
