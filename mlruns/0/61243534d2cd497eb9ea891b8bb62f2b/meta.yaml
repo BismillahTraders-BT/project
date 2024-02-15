@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/61243534d2cd497eb9ea891b8bb62f2b/artifacts
+end_time: 1707988894298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61243534d2cd497eb9ea891b8bb62f2b
+run_name: chill-elk-782
+run_uuid: 61243534d2cd497eb9ea891b8bb62f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707988894042
+status: 3
+tags: []
+user_id: runner
