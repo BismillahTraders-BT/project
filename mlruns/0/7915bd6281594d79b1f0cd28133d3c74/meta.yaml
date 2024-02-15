@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/7915bd6281594d79b1f0cd28133d3c74/artifacts
+end_time: 1707992425425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7915bd6281594d79b1f0cd28133d3c74
+run_name: intelligent-cub-1000
+run_uuid: 7915bd6281594d79b1f0cd28133d3c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707992425171
+status: 3
+tags: []
+user_id: runner
