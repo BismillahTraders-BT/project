@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/3f2342b16a624fbea51f9348b2da190d/artifacts
+end_time: 1707959599344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f2342b16a624fbea51f9348b2da190d
+run_name: polite-donkey-390
+run_uuid: 3f2342b16a624fbea51f9348b2da190d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707959599090
+status: 3
+tags: []
+user_id: runner
