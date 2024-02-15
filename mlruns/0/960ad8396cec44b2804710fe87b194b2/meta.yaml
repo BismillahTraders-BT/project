@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/960ad8396cec44b2804710fe87b194b2/artifacts
+end_time: 1708003207801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 960ad8396cec44b2804710fe87b194b2
+run_name: funny-pig-304
+run_uuid: 960ad8396cec44b2804710fe87b194b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708003207544
+status: 3
+tags: []
+user_id: runner
