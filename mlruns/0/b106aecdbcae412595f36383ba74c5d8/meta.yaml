@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b106aecdbcae412595f36383ba74c5d8/artifacts
+end_time: 1708121863735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b106aecdbcae412595f36383ba74c5d8
+run_name: rumbling-horse-20
+run_uuid: b106aecdbcae412595f36383ba74c5d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708121863461
+status: 3
+tags: []
+user_id: runner
