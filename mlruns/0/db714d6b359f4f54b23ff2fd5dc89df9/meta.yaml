@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/db714d6b359f4f54b23ff2fd5dc89df9/artifacts
+end_time: 1708089616214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db714d6b359f4f54b23ff2fd5dc89df9
+run_name: nosy-crab-367
+run_uuid: db714d6b359f4f54b23ff2fd5dc89df9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708089616070
+status: 3
+tags: []
+user_id: runner
