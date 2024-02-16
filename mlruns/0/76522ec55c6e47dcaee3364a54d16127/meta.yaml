@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/76522ec55c6e47dcaee3364a54d16127/artifacts
+end_time: 1708053648112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76522ec55c6e47dcaee3364a54d16127
+run_name: powerful-mule-893
+run_uuid: 76522ec55c6e47dcaee3364a54d16127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708053647855
+status: 3
+tags: []
+user_id: runner
