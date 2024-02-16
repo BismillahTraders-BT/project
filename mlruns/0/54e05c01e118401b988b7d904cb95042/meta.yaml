@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/54e05c01e118401b988b7d904cb95042/artifacts
+end_time: 1708057283940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54e05c01e118401b988b7d904cb95042
+run_name: beautiful-stag-689
+run_uuid: 54e05c01e118401b988b7d904cb95042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708057283680
+status: 3
+tags: []
+user_id: runner
