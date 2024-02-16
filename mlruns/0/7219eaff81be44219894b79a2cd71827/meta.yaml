@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/7219eaff81be44219894b79a2cd71827/artifacts
+end_time: 1708100594114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7219eaff81be44219894b79a2cd71827
+run_name: rogue-asp-3
+run_uuid: 7219eaff81be44219894b79a2cd71827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708100593848
+status: 3
+tags: []
+user_id: runner
