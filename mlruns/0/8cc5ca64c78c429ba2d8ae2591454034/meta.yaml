@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/8cc5ca64c78c429ba2d8ae2591454034/artifacts
+end_time: 1708172995530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cc5ca64c78c429ba2d8ae2591454034
+run_name: welcoming-owl-943
+run_uuid: 8cc5ca64c78c429ba2d8ae2591454034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708172995266
+status: 3
+tags: []
+user_id: runner
