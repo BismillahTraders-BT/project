@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/3993c9562b194bd4b2724232ac198768/artifacts
+end_time: 1708143849111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3993c9562b194bd4b2724232ac198768
+run_name: welcoming-lynx-130
+run_uuid: 3993c9562b194bd4b2724232ac198768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708143848848
+status: 3
+tags: []
+user_id: runner
