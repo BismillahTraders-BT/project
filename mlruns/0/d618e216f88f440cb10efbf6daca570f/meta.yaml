@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d618e216f88f440cb10efbf6daca570f/artifacts
+end_time: 1708139991850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d618e216f88f440cb10efbf6daca570f
+run_name: inquisitive-grub-145
+run_uuid: d618e216f88f440cb10efbf6daca570f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708139991588
+status: 3
+tags: []
+user_id: runner
