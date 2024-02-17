@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/588dc83266fd43bb804a7356bb144981/artifacts
+end_time: 1708168474986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 588dc83266fd43bb804a7356bb144981
+run_name: upset-ray-625
+run_uuid: 588dc83266fd43bb804a7356bb144981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708168474840
+status: 3
+tags: []
+user_id: runner
