@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0dd61c9922314ffcb5626e42b0e02f1a/artifacts
+end_time: 1708161433699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dd61c9922314ffcb5626e42b0e02f1a
+run_name: bittersweet-newt-208
+run_uuid: 0dd61c9922314ffcb5626e42b0e02f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708161433554
+status: 3
+tags: []
+user_id: runner
