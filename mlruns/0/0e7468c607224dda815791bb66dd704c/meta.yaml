@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/0e7468c607224dda815791bb66dd704c/artifacts
+end_time: 1708183094284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e7468c607224dda815791bb66dd704c
+run_name: omniscient-boar-570
+run_uuid: 0e7468c607224dda815791bb66dd704c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708183094020
+status: 3
+tags: []
+user_id: runner
