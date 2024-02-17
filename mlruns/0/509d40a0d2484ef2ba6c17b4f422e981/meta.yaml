@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/509d40a0d2484ef2ba6c17b4f422e981/artifacts
+end_time: 1708132345853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 509d40a0d2484ef2ba6c17b4f422e981
+run_name: puzzled-fish-264
+run_uuid: 509d40a0d2484ef2ba6c17b4f422e981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708132345589
+status: 3
+tags: []
+user_id: runner
