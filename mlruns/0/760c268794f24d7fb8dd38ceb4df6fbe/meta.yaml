@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/760c268794f24d7fb8dd38ceb4df6fbe/artifacts
+end_time: 1708208399497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 760c268794f24d7fb8dd38ceb4df6fbe
+run_name: gregarious-calf-604
+run_uuid: 760c268794f24d7fb8dd38ceb4df6fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708208399229
+status: 3
+tags: []
+user_id: runner
