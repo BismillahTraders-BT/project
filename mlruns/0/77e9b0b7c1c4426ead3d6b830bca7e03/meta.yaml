@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/77e9b0b7c1c4426ead3d6b830bca7e03/artifacts
+end_time: 1708194075800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77e9b0b7c1c4426ead3d6b830bca7e03
+run_name: clumsy-fly-277
+run_uuid: 77e9b0b7c1c4426ead3d6b830bca7e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708194075533
+status: 3
+tags: []
+user_id: runner
