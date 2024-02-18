@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/39783ecd31de4229a90722c11a16b4cd/artifacts
+end_time: 1708283687414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39783ecd31de4229a90722c11a16b4cd
+run_name: blushing-toad-173
+run_uuid: 39783ecd31de4229a90722c11a16b4cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708283687144
+status: 3
+tags: []
+user_id: runner
