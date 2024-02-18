@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/4a15f517844c4e0993eb5dd33566ee32/artifacts
+end_time: 1708226351671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a15f517844c4e0993eb5dd33566ee32
+run_name: glamorous-goat-851
+run_uuid: 4a15f517844c4e0993eb5dd33566ee32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708226351403
+status: 3
+tags: []
+user_id: runner
