@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/8fa50f54bb7e4043b011cad0b7cd3ef3/artifacts
+end_time: 1708290944557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fa50f54bb7e4043b011cad0b7cd3ef3
+run_name: placid-colt-382
+run_uuid: 8fa50f54bb7e4043b011cad0b7cd3ef3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708290944283
+status: 3
+tags: []
+user_id: runner
