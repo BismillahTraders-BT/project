@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/fdc5a9ac73d34fb2b0145ce19b1d1f61/artifacts
+end_time: 1708280489974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdc5a9ac73d34fb2b0145ce19b1d1f61
+run_name: aged-finch-208
+run_uuid: fdc5a9ac73d34fb2b0145ce19b1d1f61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708280489697
+status: 3
+tags: []
+user_id: runner
