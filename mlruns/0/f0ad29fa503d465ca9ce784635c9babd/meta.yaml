@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/f0ad29fa503d465ca9ce784635c9babd/artifacts
+end_time: 1708273341745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0ad29fa503d465ca9ce784635c9babd
+run_name: enthused-horse-204
+run_uuid: f0ad29fa503d465ca9ce784635c9babd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708273341595
+status: 3
+tags: []
+user_id: runner
