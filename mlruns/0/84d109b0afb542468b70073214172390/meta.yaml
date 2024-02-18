@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/84d109b0afb542468b70073214172390/artifacts
+end_time: 1708294735251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84d109b0afb542468b70073214172390
+run_name: unruly-crane-714
+run_uuid: 84d109b0afb542468b70073214172390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708294735102
+status: 3
+tags: []
+user_id: runner
