@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/e1924f9140bb4bc9af3267f445f848de/artifacts
+end_time: 1708287552733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1924f9140bb4bc9af3267f445f848de
+run_name: enchanting-lark-883
+run_uuid: e1924f9140bb4bc9af3267f445f848de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708287552460
+status: 3
+tags: []
+user_id: runner
