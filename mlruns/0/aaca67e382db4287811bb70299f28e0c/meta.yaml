@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/aaca67e382db4287811bb70299f28e0c/artifacts
+end_time: 1708259418830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aaca67e382db4287811bb70299f28e0c
+run_name: clean-gnat-939
+run_uuid: aaca67e382db4287811bb70299f28e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708259418559
+status: 3
+tags: []
+user_id: runner
