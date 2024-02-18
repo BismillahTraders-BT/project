@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/9cdcb9b51ed146248e9044d25363edc8/artifacts
+end_time: 1708233412207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cdcb9b51ed146248e9044d25363edc8
+run_name: resilient-deer-649
+run_uuid: 9cdcb9b51ed146248e9044d25363edc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708233412059
+status: 3
+tags: []
+user_id: runner
