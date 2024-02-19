@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ef1e177d28234558a80ab16103e5b4e0/artifacts
+end_time: 1708345957710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef1e177d28234558a80ab16103e5b4e0
+run_name: lyrical-sheep-440
+run_uuid: ef1e177d28234558a80ab16103e5b4e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708345957559
+status: 3
+tags: []
+user_id: runner
