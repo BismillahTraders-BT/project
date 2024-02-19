@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ed8073a0304b4851a9ff6f2e8a3d7eb3/artifacts
+end_time: 1708384689003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed8073a0304b4851a9ff6f2e8a3d7eb3
+run_name: efficient-goose-319
+run_uuid: ed8073a0304b4851a9ff6f2e8a3d7eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708384688720
+status: 3
+tags: []
+user_id: runner
