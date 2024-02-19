@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/65b874b5e32d4e5695b201ff2c4e2612/artifacts
+end_time: 1708341365000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65b874b5e32d4e5695b201ff2c4e2612
+run_name: burly-turtle-53
+run_uuid: 65b874b5e32d4e5695b201ff2c4e2612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708341364848
+status: 3
+tags: []
+user_id: runner
