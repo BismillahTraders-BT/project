@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/45d75d446f5b4b10bacc3a95174be83b/artifacts
+end_time: 1708370147991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45d75d446f5b4b10bacc3a95174be83b
+run_name: placid-hound-27
+run_uuid: 45d75d446f5b4b10bacc3a95174be83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708370147839
+status: 3
+tags: []
+user_id: runner
