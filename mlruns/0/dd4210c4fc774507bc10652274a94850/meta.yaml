@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/dd4210c4fc774507bc10652274a94850/artifacts
+end_time: 1708348849823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd4210c4fc774507bc10652274a94850
+run_name: sedate-crab-255
+run_uuid: dd4210c4fc774507bc10652274a94850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708348849545
+status: 3
+tags: []
+user_id: runner
