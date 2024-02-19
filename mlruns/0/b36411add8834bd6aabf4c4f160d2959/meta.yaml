@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b36411add8834bd6aabf4c4f160d2959/artifacts
+end_time: 1708319917274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b36411add8834bd6aabf4c4f160d2959
+run_name: ambitious-steed-101
+run_uuid: b36411add8834bd6aabf4c4f160d2959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708319916999
+status: 3
+tags: []
+user_id: runner
