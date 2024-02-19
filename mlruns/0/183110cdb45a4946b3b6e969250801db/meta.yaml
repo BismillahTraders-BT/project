@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/183110cdb45a4946b3b6e969250801db/artifacts
+end_time: 1708338031683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 183110cdb45a4946b3b6e969250801db
+run_name: secretive-tern-584
+run_uuid: 183110cdb45a4946b3b6e969250801db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708338031530
+status: 3
+tags: []
+user_id: runner
