@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/b5b64f5ce6984b69937b3b409977da4a/artifacts
+end_time: 1708410250206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5b64f5ce6984b69937b3b409977da4a
+run_name: adaptable-fawn-693
+run_uuid: b5b64f5ce6984b69937b3b409977da4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708410249927
+status: 3
+tags: []
+user_id: runner
