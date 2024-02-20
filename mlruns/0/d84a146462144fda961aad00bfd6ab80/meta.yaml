@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d84a146462144fda961aad00bfd6ab80/artifacts
+end_time: 1708391516699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d84a146462144fda961aad00bfd6ab80
+run_name: painted-slug-287
+run_uuid: d84a146462144fda961aad00bfd6ab80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708391516420
+status: 3
+tags: []
+user_id: runner
