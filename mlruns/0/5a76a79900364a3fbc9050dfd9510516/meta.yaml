@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/5a76a79900364a3fbc9050dfd9510516/artifacts
+end_time: 1708427825557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a76a79900364a3fbc9050dfd9510516
+run_name: able-mule-621
+run_uuid: 5a76a79900364a3fbc9050dfd9510516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708427825276
+status: 3
+tags: []
+user_id: runner
