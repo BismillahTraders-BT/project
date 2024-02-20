@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/af97cb4960e0437faa2466ea49cd7ce2/artifacts
+end_time: 1708456528630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af97cb4960e0437faa2466ea49cd7ce2
+run_name: beautiful-robin-774
+run_uuid: af97cb4960e0437faa2466ea49cd7ce2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708456528348
+status: 3
+tags: []
+user_id: runner
