@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/03c0787b612b421880f3c70d9672b523/artifacts
+end_time: 1708463825684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03c0787b612b421880f3c70d9672b523
+run_name: big-hound-600
+run_uuid: 03c0787b612b421880f3c70d9672b523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708463825399
+status: 3
+tags: []
+user_id: runner
