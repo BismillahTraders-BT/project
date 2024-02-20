@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/56aea4825abf4e27b90c897ca605b42f/artifacts
+end_time: 1708399214214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56aea4825abf4e27b90c897ca605b42f
+run_name: rumbling-hare-554
+run_uuid: 56aea4825abf4e27b90c897ca605b42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708399213934
+status: 3
+tags: []
+user_id: runner
