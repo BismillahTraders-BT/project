@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/bf6bca42f8d341e89df9f05965db3a46/artifacts
+end_time: 1708417346758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf6bca42f8d341e89df9f05965db3a46
+run_name: intelligent-duck-309
+run_uuid: bf6bca42f8d341e89df9f05965db3a46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708417346605
+status: 3
+tags: []
+user_id: runner
