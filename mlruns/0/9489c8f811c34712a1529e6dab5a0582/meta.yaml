@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/9489c8f811c34712a1529e6dab5a0582/artifacts
+end_time: 1708438660146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9489c8f811c34712a1529e6dab5a0582
+run_name: brawny-bug-558
+run_uuid: 9489c8f811c34712a1529e6dab5a0582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708438659863
+status: 3
+tags: []
+user_id: runner
