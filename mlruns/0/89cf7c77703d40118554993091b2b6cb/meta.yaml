@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/89cf7c77703d40118554993091b2b6cb/artifacts
+end_time: 1708460418390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89cf7c77703d40118554993091b2b6cb
+run_name: rogue-elk-535
+run_uuid: 89cf7c77703d40118554993091b2b6cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708460418236
+status: 3
+tags: []
+user_id: runner
