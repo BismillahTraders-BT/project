@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/86397647b7d54502a34d7fde3e8cc05f/artifacts
+end_time: 1708510852251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86397647b7d54502a34d7fde3e8cc05f
+run_name: unequaled-boar-155
+run_uuid: 86397647b7d54502a34d7fde3e8cc05f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708510851965
+status: 3
+tags: []
+user_id: runner
