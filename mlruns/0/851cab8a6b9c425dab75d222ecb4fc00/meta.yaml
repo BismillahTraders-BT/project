@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/851cab8a6b9c425dab75d222ecb4fc00/artifacts
+end_time: 1708514194394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 851cab8a6b9c425dab75d222ecb4fc00
+run_name: secretive-bass-865
+run_uuid: 851cab8a6b9c425dab75d222ecb4fc00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708514194108
+status: 3
+tags: []
+user_id: runner
