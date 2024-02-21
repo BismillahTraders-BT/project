@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/033789942d514b6eaca3dbae93de629b/artifacts
+end_time: 1708550211310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 033789942d514b6eaca3dbae93de629b
+run_name: legendary-sloth-506
+run_uuid: 033789942d514b6eaca3dbae93de629b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708550211019
+status: 3
+tags: []
+user_id: runner
