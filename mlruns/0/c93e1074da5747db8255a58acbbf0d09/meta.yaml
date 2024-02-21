@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/c93e1074da5747db8255a58acbbf0d09/artifacts
+end_time: 1708485554185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c93e1074da5747db8255a58acbbf0d09
+run_name: skittish-ape-664
+run_uuid: c93e1074da5747db8255a58acbbf0d09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708485554029
+status: 3
+tags: []
+user_id: runner
