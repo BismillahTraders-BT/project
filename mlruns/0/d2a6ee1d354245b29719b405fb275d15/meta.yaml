@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/d2a6ee1d354245b29719b405fb275d15/artifacts
+end_time: 1708499852848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2a6ee1d354245b29719b405fb275d15
+run_name: suave-bug-283
+run_uuid: d2a6ee1d354245b29719b405fb275d15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708499852693
+status: 3
+tags: []
+user_id: runner
