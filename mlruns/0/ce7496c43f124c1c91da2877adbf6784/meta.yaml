@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/ce7496c43f124c1c91da2877adbf6784/artifacts
+end_time: 1708518763499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce7496c43f124c1c91da2877adbf6784
+run_name: resilient-ray-593
+run_uuid: ce7496c43f124c1c91da2877adbf6784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708518763211
+status: 3
+tags: []
+user_id: runner
