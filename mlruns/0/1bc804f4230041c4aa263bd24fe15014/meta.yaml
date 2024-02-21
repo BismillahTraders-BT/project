@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/1bc804f4230041c4aa263bd24fe15014/artifacts
+end_time: 1708546753703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bc804f4230041c4aa263bd24fe15014
+run_name: efficient-wasp-836
+run_uuid: 1bc804f4230041c4aa263bd24fe15014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708546753545
+status: 3
+tags: []
+user_id: runner
