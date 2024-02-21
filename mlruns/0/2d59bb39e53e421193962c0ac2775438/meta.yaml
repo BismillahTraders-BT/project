@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/2d59bb39e53e421193962c0ac2775438/artifacts
+end_time: 1708535855407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d59bb39e53e421193962c0ac2775438
+run_name: useful-roo-173
+run_uuid: 2d59bb39e53e421193962c0ac2775438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708535855121
+status: 3
+tags: []
+user_id: runner
