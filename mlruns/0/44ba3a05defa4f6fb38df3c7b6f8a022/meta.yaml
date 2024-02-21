@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/44ba3a05defa4f6fb38df3c7b6f8a022/artifacts
+end_time: 1708557573454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44ba3a05defa4f6fb38df3c7b6f8a022
+run_name: efficient-newt-622
+run_uuid: 44ba3a05defa4f6fb38df3c7b6f8a022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708557573162
+status: 3
+tags: []
+user_id: runner
