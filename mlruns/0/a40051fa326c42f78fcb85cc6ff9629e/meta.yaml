@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/c/Users/Lenovo/project-1/mlruns/0/a40051fa326c42f78fcb85cc6ff9629e/artifacts
+end_time: 1708568613040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a40051fa326c42f78fcb85cc6ff9629e
+run_name: likeable-rook-548
+run_uuid: a40051fa326c42f78fcb85cc6ff9629e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708568612881
+status: 3
+tags: []
+user_id: runner
